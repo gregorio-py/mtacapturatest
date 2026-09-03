@@ -1,0 +1,1632 @@
+
+================================================================================
+SEQUÊNCIAS REPETIDAS: 2 BYTES
+================================================================================
+       165x  4F 5A
+       153x  01 01
+       147x  B8 47
+       146x  68 80
+       145x  59 87
+       143x  7C 46
+       141x  39 4C
+       141x  42 CF
+       141x  7F A9
+       140x  BF B3
+       139x  AC 69
+       138x  55 D2
+       138x  B5 03
+       137x  09 1E
+       137x  46 66
+       136x  9C 62
+       136x  0E AC
+       136x  28 FB
+       135x  98 12
+       135x  5F 9C
+       135x  FE DF
+       134x  A0 3D
+       134x  59 73
+       133x  AE 50
+       133x  38 09
+       133x  E6 72
+       133x  5A F7
+       133x  2C 44
+       133x  08 B3
+       133x  BB AB
+       132x  CE 8B
+       132x  90 DF
+       132x  18 1F
+       131x  06 04
+       131x  6F 33
+       131x  6E 68
+       131x  4E 8D
+       131x  74 35
+       130x  01 B9
+       130x  C3 99
+       130x  04 3A
+       130x  09 A2
+       129x  B2 06
+       129x  70 BA
+       129x  1E F0
+       129x  77 AB
+       128x  C6 54
+       128x  49 1D
+       128x  BA 1C
+       128x  DD 7E
+       128x  82 79
+       128x  11 59
+       128x  48 DA
+       128x  B9 DB
+       128x  DB 34
+       127x  D7 24
+       127x  69 5E
+       127x  7F ED
+       127x  91 DD
+       127x  17 A3
+       127x  AD 61
+       127x  D4 9D
+       127x  36 A6
+       126x  BF 21
+       126x  A6 69
+       126x  E5 B9
+       125x  79 63
+       125x  22 00
+       125x  B0 01
+       125x  02 F7
+       125x  61 D4
+       125x  7D FB
+       125x  8A 2E
+       125x  6A F1
+       125x  30 1B
+       125x  AB 2E
+       125x  14 D9
+       125x  76 47
+       125x  67 4F
+       125x  3F A5
+       125x  52 77
+       125x  12 B5
+       124x  B9 5B
+       124x  95 E3
+       124x  14 C8
+       124x  27 19
+       124x  3B 65
+       124x  FC 97
+       124x  BE 60
+       124x  F6 00
+       124x  8F 4E
+       123x  09 E7
+       123x  D1 97
+       123x  F0 3B
+       123x  4C E5
+       123x  AA E3
+       123x  C5 29
+       123x  D9 AC
+       123x  E1 BF
+       123x  11 5F
+       122x  35 04
+       122x  F1 73
+       122x  1F FE
+       122x  FD DF
+       122x  3F 95
+       122x  8E 8D
+       122x  D1 FF
+       122x  68 84
+       122x  66 2A
+       122x  99 77
+       122x  BC 49
+       122x  C9 79
+       122x  87 12
+       121x  E0 08
+       121x  58 B5
+       121x  B1 D0
+       121x  2A BC
+       121x  2E 30
+       121x  63 56
+       121x  67 90
+       121x  0C 0F
+       121x  C4 9E
+       121x  8D 5F
+       121x  5E E2
+       121x  13 BF
+       121x  89 1F
+       121x  24 20
+       121x  28 0C
+       120x  FE 24
+       120x  B5 21
+       120x  98 E1
+       120x  C3 44
+       120x  16 7E
+       120x  E3 D3
+       120x  E4 7D
+       120x  7B B4
+       120x  5D 98
+       120x  A9 07
+       120x  F4 F5
+       120x  47 3E
+       120x  2D 54
+       120x  21 73
+       120x  75 8F
+       120x  76 12
+       120x  EE EE
+       119x  A5 72
+       119x  39 72
+       119x  A6 86
+       119x  9C 2C
+       119x  00 E8
+       119x  72 70
+       119x  96 A6
+       119x  65 02
+       119x  D2 71
+       119x  00 12
+       119x  DA CE
+       119x  20 85
+       119x  DB C3
+       119x  6D 6B
+       119x  47 60
+       119x  73 7F
+       119x  F9 31
+       119x  F2 F6
+       118x  F0 82
+       118x  22 CB
+       118x  40 95
+       118x  9E 6C
+       118x  D1 09
+       118x  1D C7
+       118x  25 10
+       118x  15 C2
+       118x  E9 8B
+       118x  F7 9B
+       118x  A2 DB
+       118x  EC F3
+       118x  9D F4
+       118x  94 D5
+       118x  84 D8
+       118x  4E 41
+       118x  1E 32
+       118x  CB BA
+       117x  0B 5B
+       117x  98 C1
+       117x  FB 26
+       117x  C8 74
+       117x  EE 91
+       117x  7A 8E
+       117x  3B 0C
+       117x  80 09
+       117x  8A EB
+       117x  94 B1
+       117x  10 1B
+       117x  1B FF
+       117x  22 C2
+       117x  90 BD
+       117x  F8 96
+       117x  1B 6C
+       117x  D4 87
+       117x  44 C9
+       116x  D3 C0
+
+================================================================================
+SEQUÊNCIAS REPETIDAS: 3 BYTES
+================================================================================
+        60x  DB C3 44
+        60x  76 12 B5
+        58x  5F 9C 62
+        58x  9C 62 28
+        58x  2A BC 49
+        58x  A2 DB C3
+        58x  12 B5 03
+        57x  01 01 01
+        57x  0E AC 69
+        57x  AC 69 5E
+        57x  67 4F 5A
+        57x  4F 5A F7
+        57x  BC 49 2A
+        57x  11 59 87
+        57x  59 87 12
+        56x  01 B9 5B
+        56x  E6 72 70
+        56x  FC 97 68
+        56x  97 68 D0
+        55x  B0 01 B9
+        55x  38 09 A2
+        55x  7C 46 66
+        55x  68 80 09
+        55x  03 EE EE
+        55x  EE EE 91
+        54x  CE D7 24
+        54x  00 F0 3B
+        54x  CF E6 72
+        54x  46 66 1C
+        53x  D7 24 DE
+        53x  F0 3B 0C
+        53x  BD C8 2C
+        53x  C8 2C BD
+        53x  09 A2 29
+        53x  6E 68 80
+        52x  D3 C0 B8
+        52x  C0 B8 AF
+        52x  40 95 E3
+        52x  D1 09 1E
+        52x  D8 91 DD
+        52x  AD 61 36
+        52x  B9 DB 34
+        52x  B8 47 60
+        52x  9F D9 AC
+        52x  D9 AC 75
+        52x  79 63 56
+        52x  63 56 CD
+        51x  06 04 3A
+        51x  53 D1 09
+        51x  8C AD 61
+        51x  90 BD F8
+        51x  73 7F A9
+        51x  24 20 85
+        51x  C8 74 35
+        51x  C6 1E F0
+        50x  03 E0 08
+        50x  CB FD 3E
+        50x  B2 06 04
+        50x  BA 1C A8
+        50x  77 40 95
+        50x  8E 14 C8
+        50x  91 DD 7E
+        50x  EF 99 FA
+        50x  99 FA 39
+        50x  7F A9 EE
+        50x  FE 24 20
+        50x  28 0C 0F
+        50x  74 35 04
+        50x  1E F0 61
+        50x  8F 4E 41
+        50x  5D 75 8F
+        49x  CC 03 E0
+        49x  22 CB FD
+        49x  F5 98 E1
+        49x  70 BA 1C
+        49x  14 C8 43
+        49x  BD F8 56
+        49x  1F FE 26
+        49x  E5 B9 DB
+        49x  13 BF 21
+        49x  55 D2 22
+        49x  D2 22 00
+        49x  0C 0F 81
+        49x  47 60 16
+        49x  4E 41 DB
+        49x  A4 39 4C
+        49x  42 CF 70
+        49x  CF 70 89
+        49x  80 5D 75
+        48x  58 B5 21
+        48x  C3 28 BB
+        48x  8B F5 98
+        48x  07 1A 37
+        48x  27 19 9A
+        48x  19 9A A5
+        48x  96 A6 69
+        48x  A8 D2 71
+        48x  A1 31 6E
+        48x  31 6E D6
+        48x  DF 22 C2
+        48x  A0 74 07
+        48x  89 1F FE
+        48x  14 13 BF
+        48x  31 D5 F9
+        48x  3E B3 13
+        48x  AB 2E B6
+        48x  A3 51 35
+        48x  C4 9E 6C
+        47x  B5 21 33
+        47x  28 BB 4A
+        47x  49 1D 90
+        47x  6A F1 9A
+        47x  0B 8D 7E
+        47x  66 84 0D
+        47x  39 72 E5
+        47x  1D C7 3F
+        47x  2B 64 E9
+        47x  64 E9 CB
+        47x  9E 3C 24
+        47x  E3 67 90
+        47x  77 AB 0F
+        47x  57 78 7F
+        47x  64 45 F4
+        47x  45 F4 F5
+        47x  22 C2 D2
+        47x  29 A0 74
+        47x  45 B7 48
+        47x  B7 48 DA
+        47x  DC 6F 36
+        47x  D5 F9 31
+        47x  B3 13 45
+        47x  BB AB 2E
+        47x  79 0E C5
+        47x  A8 A4 39
+        47x  EC 55 BE
+        47x  55 BE 60
+        47x  9B 2D 88
+        47x  2D 88 13
+        47x  94 B1 94
+        47x  B1 94 D5
+        46x  0D AE AD
+        46x  AD 8A 7A
+        46x  8A 7A B5
+        46x  FB 26 9D
+        46x  1D 90 DF
+        46x  D0 71 F0
+        46x  69 DA 8A
+        46x  C4 6A F1
+        46x  8D 7E 20
+        46x  72 E5 A3
+        46x  C7 3F 95
+        46x  86 CF BE
+        46x  6B 9F EA
+        46x  A9 07 1A
+        46x  46 E3 67
+        46x  B4 96 A6
+        46x  D1 FF E2
+        46x  FF E2 80
+        46x  99 77 AB
+        46x  6D 6B 5A
+        46x  6F 36 A6
+        46x  AC 87 5D
+        46x  D7 94 E4
+        46x  94 E4 57
+        46x  82 79 0E
+        46x  C5 29 3C
+        46x  DA CE D1
+        46x  44 C9 79
+        46x  8B 1E 32
+        46x  51 A3 51
+        46x  BE 5B 47
+        46x  5B 47 E4
+        45x  96 FB 26
+        45x  B1 D0 71
+        45x  16 0A B9
+        45x  DA 8A 2E
+        45x  A6 86 CF
+        45x  6D 9E 3C
+        45x  C9 52 02
+        45x  5E E2 59
+        45x  E2 59 73
+        45x  56 A8 D2
+        45x  3E 08 B3
+        45x  54 C6 54
+        45x  CC 32 5D
+        45x  B7 6D 6B
+        45x  F9 D6 F3
+        45x  BF ED AD
+        45x  87 5D 98
+        45x  C1 B0 E7
+        45x  B0 E7 C3
+        45x  AF FE DF
+        45x  FE DF 15
+        45x  2C 44 6E
+        45x  15 7A F2
+        45x  1E C5 29
+        45x  CE D1 97
+        45x  36 44 C9
+        45x  72 61 B0
+        45x  61 B0 1A
+
+================================================================================
+SEQUÊNCIAS REPETIDAS: 4 BYTES
+================================================================================
+        58x  A2 DB C3 44
+        58x  76 12 B5 03
+        57x  5F 9C 62 28
+        57x  2A BC 49 2A
+        56x  01 01 01 01
+        56x  0E AC 69 5E
+        56x  67 4F 5A F7
+        55x  B0 01 B9 5B
+        55x  11 59 87 12
+        54x  CF E6 72 70
+        54x  FC 97 68 D0
+        54x  03 EE EE 91
+        53x  CE D7 24 DE
+        53x  00 F0 3B 0C
+        53x  BD C8 2C BD
+        53x  38 09 A2 29
+        53x  7C 46 66 1C
+        52x  6E 68 80 09
+        52x  79 63 56 CD
+        51x  D3 C0 B8 AF
+        51x  53 D1 09 1E
+        51x  8C AD 61 36
+        51x  9F D9 AC 75
+        50x  B2 06 04 3A
+        50x  77 40 95 E3
+        50x  EF 99 FA 39
+        50x  FE 24 20 85
+        49x  8E 14 C8 43
+        49x  D8 91 DD 7E
+        49x  90 BD F8 56
+        49x  E5 B9 DB 34
+        49x  73 7F A9 EE
+        49x  55 D2 22 00
+        49x  C8 74 35 04
+        49x  B8 47 60 16
+        49x  C6 1E F0 61
+        49x  8F 4E 41 DB
+        49x  42 CF 70 89
+        48x  CC 03 E0 08
+        48x  22 CB FD 3E
+        48x  8B F5 98 E1
+        48x  70 BA 1C A8
+        48x  27 19 9A A5
+        48x  14 13 BF 21
+        48x  28 0C 0F 81
+        47x  58 B5 21 33
+        47x  A1 31 6E D6
+        47x  DF 22 C2 D2
+        47x  45 B7 48 DA
+        47x  89 1F FE 26
+        47x  3E B3 13 45
+        47x  A8 A4 39 4C
+        47x  EC 55 BE 60
+        47x  94 B1 94 D5
+        47x  80 5D 75 8F
+        46x  C3 28 BB 4A
+        46x  0B 8D 7E 20
+        46x  1D C7 3F 95
+        46x  2B 64 E9 CB
+        46x  46 E3 67 90
+        46x  99 77 AB 0F
+        46x  64 45 F4 F5
+        46x  29 A0 74 07
+        46x  DC 6F 36 A6
+        46x  D7 94 E4 57
+        46x  BB AB 2E B6
+        46x  82 79 0E C5
+        46x  51 A3 51 35
+        46x  9B 2D 88 13
+        45x  AD 8A 7A B5
+        45x  96 FB 26 9D
+        45x  49 1D 90 DF
+        45x  B1 D0 71 F0
+        45x  C4 6A F1 9A
+        45x  39 72 E5 A3
+        45x  6D 9E 3C 24
+        45x  B4 96 A6 69
+        45x  5E E2 59 73
+        45x  B7 6D 6B 5A
+        45x  AC 87 5D 98
+        45x  31 D5 F9 31
+        45x  1E C5 29 3C
+        45x  36 44 C9 79
+        45x  F6 00 E8 84
+        45x  E9 8B 1E 32
+        45x  BE 5B 47 E4
+        45x  EA C4 9E 6C
+        44x  F9 16 0A B9
+        44x  2E 30 1B 7A
+        44x  3D 66 84 0D
+        44x  A6 86 CF BE
+        44x  01 6B 9F EA
+        44x  A7 DE 4D 2F
+        44x  A9 07 1A 37
+        44x  FA 5C 4A 9E
+        44x  D1 FF E2 80
+        44x  56 A8 D2 71
+        44x  BC 36 7B 48
+        44x  2D 54 C6 54
+        44x  A4 F9 D6 F3
+        44x  BF ED AD 4E
+        44x  C1 B0 E7 C3
+        44x  AF FE DF 15
+        44x  9C 2C 44 6E
+        44x  DA CE D1 97
+        44x  72 61 B0 1A
+        44x  5B 3C 64 3F
+        44x  65 21 73 A1
+        43x  D0 0D AE AD
+        43x  59 35 BC 66
+        43x  19 38 8F EB
+        43x  93 E5 4B 41
+        43x  69 DA 8A 2E
+        43x  1A 2E AF 59
+        43x  CB 8E 8D 7C
+        43x  FF EF 3A B4
+        43x  8D 5F 2B AC
+        43x  F1 73 31 FC
+        43x  F4 7C 38 11
+        43x  C7 5E E6 50
+        43x  DB DD 81 7D
+        43x  D9 D8 BD DD
+        43x  15 7A F2 F6
+        43x  6F 33 17 4B
+        43x  61 D4 25 68
+        43x  E2 83 18 1F
+        43x  44 52 77 B2
+        43x  74 26 D9 6F
+        43x  0C 51 CA CF
+        42x  02 F7 EA EF
+        42x  DE 69 01 55
+        42x  9A 56 86 18
+        42x  66 2A F5 E6
+        42x  05 8F B2 D4
+        42x  8A EB 63 6A
+        42x  47 3E 08 B3
+        42x  4C 6E 9D F4
+        42x  5A 04 DE 6D
+        42x  54 9B 83 BF
+        42x  FD DF B1 77
+        42x  9D 34 42 0B
+        42x  95 9F 6D 63
+        41x  4B AE 50 19
+        41x  98 C1 F6 C4
+        41x  9E C3 99 D7
+        41x  E4 7D FB 5C
+        41x  08 FC 37 99
+        41x  17 C9 52 02
+        41x  D4 9D BA 23
+        41x  10 1B FF 17
+        41x  A0 3D A0 FE
+        41x  87 57 78 7F
+        41x  5D 43 14 D9
+        41x  7E 75 4C E5
+        41x  30 CC 32 5D
+        41x  E1 BF B3 8C
+        41x  1B 6C D4 87
+        41x  41 3F A5 72
+        41x  3C 08 A7 01
+        41x  F8 7B B4 3B
+        41x  24 EA 8B E0
+        41x  6C AF A1 2D
+        40x  3A F3 00 D1
+        40x  D2 17 A3 46
+        40x  37 42 92 05
+        40x  92 25 46 DC
+        40x  B5 62 C1 4F
+        40x  3B 65 02 22
+        40x  3F 4D FC FD
+        40x  78 F6 1D 27
+        40x  EB 85 E1 FA
+        40x  21 76 7F ED
+        40x  C0 B6 D0 9C
+        39x  71 DC ED A2
+        39x  AA 0E 65 78
+        39x  4E 71 C0 AB
+        39x  F0 82 97 F2
+        39x  62 D6 4F 49
+        39x  B6 B2 43 53
+        39x  12 C2 7D 76
+        39x  1F BE 23 A4
+        39x  E8 A9 4E 8D
+        39x  68 84 D8 0E
+        39x  20 C6 F7 9B
+        39x  4A 18 11 5F
+        39x  AE F8 96 E2
+        39x  86 48 2F 93
+        39x  09 E7 D5 CC
+        39x  6A FA CB BA
+        39x  60 A7 76 47
+        38x  0D B8 05 82
+        38x  E6 15 EB 40
+        38x  81 8C DA 52
+        38x  48 98 12 58
+        38x  DD CD 7C 8E
+        38x  23 EC F3 1B
+        38x  7D A1 27 10
+        38x  E3 D3 D7 D8
+        38x  F2 32 30 8A
+        38x  52 10 5C 38
+
+================================================================================
+SEQUÊNCIAS REPETIDAS: 5 BYTES
+================================================================================
+        55x  01 01 01 01 01
+        30x  FF 8F 4E 41 DB
+        28x  38 00 F0 3B 0C
+        28x  C0 2A BC 49 2A
+        28x  98 67 4F 5A F7
+        28x  3D FE 24 20 85
+        28x  16 CF E6 72 70
+        27x  3A 0E AC 69 5E
+        27x  A5 76 12 B5 03
+        27x  67 5F 9C 62 28
+        26x  86 B0 01 B9 5B
+        26x  C2 BB AB 2E B6
+        26x  22 79 63 56 CD
+        25x  31 84 A5 9C 4D
+        25x  25 70 BA 1C A8
+        25x  0B 7C 46 66 1C
+        25x  30 A2 DB C3 44
+        24x  F2 53 D1 09 1E
+        24x  CC 7E 75 4C E5
+        24x  C8 30 CC 32 5D
+        24x  96 FC 97 68 D0
+        24x  8E 98 C1 F6 C4
+        23x  EC 02 F7 EA EF
+        23x  CE 8B F5 98 E1
+        23x  5C D3 C0 B8 AF
+        23x  91 EF 99 FA 39
+        23x  32 8D 5F 2B AC
+        23x  A0 E1 BF B3 8C
+        23x  13 BE 5B 47 E4
+        23x  03 8E 14 C8 43
+        23x  89 60 A7 76 47
+        23x  AC D7 94 E4 57
+        23x  34 22 CB FD 3E
+        23x  F6 82 79 0E C5
+        23x  66 61 D4 25 68
+        22x  07 64 45 F4 F5
+        22x  DE A1 31 6E D6
+        22x  FE 38 09 A2 29
+        22x  68 C7 5E E6 50
+        22x  73 89 1F FE 26
+        22x  6B 90 BD F8 56
+        22x  11 DC 6F 36 A6
+        22x  AB 3F 4D FC FD
+        22x  1C 6E 68 80 09
+        22x  8B 42 CF 70 89
+        22x  F9 9F D9 AC 75
+        22x  CF 5B 3C 64 3F
+        22x  80 96 FB 26 9D
+        22x  D2 99 77 AB 0F
+        22x  93 86 48 2F 93
+        21x  82 CC 03 E0 08
+        21x  24 8C AD 61 36
+        21x  3C 10 1B FF 17
+        21x  AA 31 D5 F9 31
+        21x  48 14 13 BF 21
+        21x  57 C1 B0 E7 C3
+        21x  5D DB DD 81 7D
+        21x  AD A9 07 1A 37
+        21x  51 3C 08 A7 01
+        21x  78 28 0C 0F 81
+        21x  84 3D 66 84 0D
+        21x  04 C4 6A F1 9A
+        21x  43 46 E3 67 90
+        20x  7A 2E 30 1B 7A
+        20x  79 56 A8 D2 71
+        20x  73 5F 9C 62 28
+        20x  2B 92 25 46 DC
+        20x  F1 4C 6E 9D F4
+        20x  BD C8 2C BD FA
+        20x  DC 7D A1 27 10
+        20x  52 C5 2B 34 C6
+        20x  47 87 57 78 7F
+        20x  EA 69 DA 8A 2E
+        20x  85 3B 65 02 22
+        20x  35 C6 1E F0 61
+        20x  4F 21 76 7F ED
+        20x  74 1D C7 3F 95
+        20x  DB C0 B6 D0 9C
+        20x  09 B2 06 04 3A
+        20x  9B 2D 88 13 7B
+        20x  97 29 A0 74 07
+        20x  C5 2B 64 E9 CB
+        20x  BC 39 72 E5 A3
+        20x  4D 73 7F A9 EE
+        20x  40 55 D2 22 00
+        20x  81 BC 36 7B 48
+        20x  FB 08 FC 37 99
+        20x  3E A6 86 CF BE
+        19x  41 19 38 8F EB
+        19x  6A 77 40 95 E3
+        19x  2D 48 98 12 58
+        19x  27 9A 56 86 18
+        19x  60 1A 2E AF 59
+        19x  A7 DF 22 C2 D2
+        19x  82 FC 97 68 D0
+        19x  A4 F9 D6 F3 45
+        19x  AE 5A 04 DE 6D
+        19x  37 B7 6D 6B 5A
+        19x  A2 F1 73 31 FC
+        19x  1F 58 B5 21 33
+        19x  2E D8 91 DD 7E
+        19x  24 A2 DB C3 44
+        19x  7E DE 69 01 55
+        19x  59 FD DF B1 77
+        19x  9F D9 AC 75 A6
+        19x  0A 0B 8D 7E 20
+        19x  CB B8 47 60 16
+        19x  36 C8 74 35 04
+        19x  19 E3 D3 D7 D8
+        19x  4E D2 17 A3 46
+        19x  65 24 EA 8B E0
+        19x  26 BF ED AD 4E
+        19x  9C 36 44 C9 79
+        19x  8D 6F 33 17 4B
+        19x  02 D0 0D AE AD
+        19x  DD 2D 54 C6 54
+        18x  7C E6 15 EB 40
+        18x  B9 66 2A F5 E6
+        18x  4C D4 9D BA 23
+        18x  90 01 6B 9F EA
+        18x  0D E0 E1 15 C2
+        18x  A2 45 B7 48 DA
+        18x  F4 AA 0E 65 78
+        18x  99 D1 FF E2 80
+        18x  48 D3 C0 B8 AF
+        18x  6F 9C 2C 44 6E
+        18x  C8 74 35 04 8F
+        18x  CD 49 1D 90 DF
+        18x  4A 78 F6 1D 27
+        18x  56 7B 93 B7 AE
+        18x  EB B4 96 A6 69
+        18x  0C C3 28 BB 4A
+        18x  06 B1 D0 71 F0
+        18x  5E E7 4B 5F A0
+        18x  33 0F A2 6F F1
+        18x  B7 AB 1C 8E CE
+        18x  28 F7 E8 53 3D
+        18x  ED F9 9F D9 AC
+        18x  58 E2 83 18 1F
+        18x  D6 51 A3 51 35
+        18x  6E 52 10 5C 38
+        18x  2C 44 52 77 B2
+        18x  C6 1E F0 61 B2
+        18x  11 59 87 12 8A
+        18x  BD 11 59 87 12
+        18x  BB EC 55 BE 60
+        18x  08 6E 68 80 09
+        18x  E4 0C 51 CA CF
+        18x  61 F9 16 0A B9
+        18x  01 EE 29 AA BC
+        18x  F7 95 9F 6D 63
+        18x  92 FA 5C 4A 9E
+        18x  F3 03 EE EE 91
+        18x  75 6C AF A1 2D
+        18x  C4 34 AA E3 2B
+        18x  39 27 19 9A A5
+        17x  A4 CE D7 24 DE
+        17x  5F 18 0A 0C E9
+        17x  2A A6 86 CF BE
+        17x  D1 FF EF 3A B4
+        17x  81 37 42 92 05
+        17x  00 CB 8E 8D 7C
+        17x  B1 E5 B9 DB 34
+        17x  59 73 7F A9 EE
+        17x  0E AC 87 5D 98
+        17x  F8 F4 7C 38 11
+        17x  1D 93 E5 4B 41
+        17x  E5 68 84 D8 0E
+        17x  B5 F0 82 97 F2
+        17x  83 5C 20 EC 67
+        17x  46 25 E9 1F B1
+        17x  63 DA CE D1 97
+        17x  B3 A8 A4 39 4C
+        17x  A8 A4 39 4C 96
+        17x  70 1B 6C D4 87
+        17x  A8 39 72 E5 A3
+        17x  E0 35 49 45 A7
+        17x  B0 CE D7 24 DE
+        17x  F5 D6 9A CD BB
+        17x  76 12 B5 03 E7
+        17x  A9 AD 8A 7A B5
+        17x  C3 BD C8 2C BD
+        17x  05 EA C4 9E 6C
+        17x  10 15 7A F2 F6
+        17x  B4 6A FA CB BA
+        17x  BF 80 5D 75 8F
+        17x  D3 54 9B 83 BF
+        17x  70 75 B4 A8 86
+        17x  18 F6 00 E8 84
+        17x  A6 4F 5A 91 C7
+        17x  3B 59 35 BC 66
+        16x  50 BB 58 C8 44
+        16x  0E AC 69 5E C3
+        16x  6C 17 C9 52 02
+        16x  27 19 9A A5 B8
+        16x  8D D1 FF E2 80
+        16x  D7 BD C8 2C BD
+        16x  54 16 7E 85 96
+        16x  7B 47 3E 08 B3
+        16x  FC 97 68 D0 AE
+
+================================================================================
+SEQUÊNCIAS REPETIDAS: 6 BYTES
+================================================================================
+        54x  01 01 01 01 01 01
+        18x  ED F9 9F D9 AC 75
+        14x  AC 70 85 76 BB D3
+        14x  70 85 76 BB D3 84
+        14x  85 76 BB D3 84 F6
+        14x  CA 24 A2 DB C3 44
+        14x  F9 9F D9 AC 75 A6
+        14x  01 71 38 D2 54 BD
+        14x  71 38 D2 54 BD 28
+        14x  38 D2 54 BD 28 E3
+        14x  24 A2 DB C3 44 BB
+        13x  2A A6 86 CF BE 6C
+        13x  59 46 9E E1 A6 11
+        13x  46 9E E1 A6 11 56
+        13x  9E E1 A6 11 56 B3
+        13x  74 C5 7E 78 FE 2F
+        13x  C5 7E 78 FE 2F DC
+        13x  7E 78 FE 2F DC DB
+        13x  9F 3A 7C A4 F6 0D
+        13x  3A 7C A4 F6 0D DF
+        13x  7C A4 F6 0D DF 7B
+        13x  0E B0 CE D7 24 DE
+        12x  6E 73 5F 9C 62 28
+        12x  F3 82 FC 97 68 D0
+        12x  82 FC 97 68 D0 AE
+        12x  3E 38 CF 23 74 3C
+        12x  38 CF 23 74 3C 2A
+        12x  CF 23 74 3C 2A ED
+        12x  2E 3D FE 24 20 85
+        12x  D8 B3 A8 A4 39 4C
+        12x  A8 39 72 E5 A3 CA
+        12x  A5 01 FB 7F 8C 77
+        12x  01 FB 7F 8C 77 FC
+        12x  FB 7F 8C 77 FC 9A
+        12x  CE 0B 7C 46 66 1C
+        12x  87 67 5F 9C 62 28
+        11x  F5 81 37 42 92 05
+        11x  BC 79 56 A8 D2 71
+        11x  73 5F 9C 62 28 C0
+        11x  A6 8E A4 F9 D6 F3
+        11x  C7 1B 88 99 7C 3B
+        11x  1B 88 99 7C 3B 63
+        11x  88 99 7C 3B 63 26
+        11x  6C 04 15 7A F2 F6
+        11x  48 D5 F1 38 A9 F0
+        11x  D5 F1 38 A9 F0 27
+        11x  F1 38 A9 F0 27 13
+        11x  EE 43 7F 19 83 F8
+        11x  43 7F 19 83 F8 C8
+        11x  7F 19 83 F8 C8 A3
+        11x  B0 CE D7 24 DE 5E
+        11x  0C FF 8F 4E 41 DB
+        11x  BA 9E CD D0 EF FA
+        11x  9E CD D0 EF FA 04
+        11x  CD D0 EF FA 04 A5
+        11x  42 A2 45 B7 48 DA
+        11x  8D 81 BC A9 72 6B
+        11x  81 BC A9 72 6B 69
+        11x  BC A9 72 6B 69 4A
+        11x  81 37 42 92 05 35
+        11x  4F 8E 98 C1 F6 C4
+        11x  4B 08 6E 68 80 09
+        11x  A7 DF 22 C2 D2 E3
+        11x  01 3A F3 00 D1 B1
+        11x  BA 5A 04 DE 6D 4D
+        11x  08 6E 68 80 09 7D
+        11x  F6 E4 0C 51 CA CF
+        11x  B6 91 EF 99 FA 39
+        10x  5B 42 69 6B 65 72
+        10x  6A DE 69 01 55 7C
+        10x  2D 27 19 9A A5 B8
+        10x  2B A7 DF 22 C2 D2
+        10x  3F 19 6F 82 A5 D7
+        10x  19 6F 82 A5 D7 24
+        10x  6F 82 A5 D7 24 3C
+        10x  72 B6 55 51 82 B6
+        10x  B6 55 51 82 B6 FB
+        10x  55 51 82 B6 FB 14
+        10x  4F 9E 1F BE 23 A4
+        10x  A2 45 B7 48 DA DE
+        10x  95 59 73 7F A9 EE
+        10x  DC 26 8D 5F 2B AC
+        10x  8E A4 F9 D6 F3 45
+        10x  7A 8E 74 0E 36 39
+        10x  8E 74 0E 36 39 42
+        10x  74 0E 36 39 42 9C
+        10x  47 8F 61 E6 4F 0F
+        10x  8F 61 E6 4F 0F ED
+        10x  61 E6 4F 0F ED 21
+        10x  48 D3 C0 B8 AF 2E
+        10x  B3 56 90 6D FF 0E
+        10x  56 90 6D FF 0E 7F
+        10x  90 6D FF 0E 7F BF
+        10x  54 31 E8 32 43 E0
+        10x  31 E8 32 43 E0 7A
+        10x  E8 32 43 E0 7A 6D
+        10x  BC 5A D2 17 A3 46
+        10x  8F 88 36 44 C9 79
+        10x  B9 DA 8B F5 98 E1
+        10x  34 92 B0 01 B9 5B
+        10x  7C 91 76 D8 97 C3
+        10x  91 76 D8 97 C3 B9
+        10x  76 D8 97 C3 B9 D1
+        10x  08 70 1B 6C D4 87
+        10x  70 1B 6C D4 87 1E
+        10x  DF 24 BA 9D 59 89
+        10x  24 BA 9D 59 89 B1
+        10x  BA 9D 59 89 B1 F7
+        10x  BA 33 0F A2 6F F1
+        10x  15 4A 78 F6 1D 27
+        10x  A6 68 E9 4D 8D CE
+        10x  68 E9 4D 8D CE 2C
+        10x  E9 4D 8D CE 2C 2D
+        10x  35 CF 5B 3C 64 3F
+        10x  0D 59 5C 16 98 1B
+        10x  59 5C 16 98 1B 70
+        10x  5C 16 98 1B 70 A0
+        10x  BE 31 D5 F9 31 B7
+        10x  92 66 19 F8 5B D0
+        10x  66 19 F8 5B D0 14
+        10x  19 F8 5B D0 14 08
+        10x  FA 9B 2D 88 13 7B
+        10x  2D F1 68 84 D8 0E
+        10x  C8 55 19 38 8F EB
+        10x  2C 48 D3 C0 B8 AF
+        10x  D5 4E D2 17 A3 46
+        10x  B8 E5 4C 6E 9D F4
+        10x  73 C0 2A BC 49 2A
+        10x  D3 26 BF ED AD 4E
+        10x  15 12 15 CD F5 71
+        10x  12 15 CD F5 71 8E
+        10x  15 CD F5 71 8E 86
+        10x  F0 19 E3 D3 D7 D8
+        10x  C6 E6 53 D1 09 1E
+        10x  31 A9 11 59 87 12
+        10x  90 A0 E1 BF B3 8C
+        10x  C4 D9 D8 BD DD 34
+        10x  4E A5 76 12 B5 03
+        10x  FD 90 01 6B 9F EA
+        10x  27 F6 82 79 0E C5
+        10x  54 55 D2 22 00 12
+        10x  AC B9 41 16 42 63
+        10x  2D AB 80 5D 75 8F
+        10x  A3 30 A2 DB C3 44
+        10x  CB 3E A6 86 CF BE
+        10x  E2 4E DA FA 9D BC
+        10x  4E DA FA 9D BC 18
+        10x  DA FA 9D BC 18 F9
+        10x  5F C2 94 86 03 8C
+        10x  C2 94 86 03 8C 06
+        10x  94 86 03 8C 06 47
+        10x  3A 97 0A 1C 3D 87
+        10x  97 0A 1C 3D 87 1A
+        10x  0A 1C 3D 87 1A 6C
+        10x  EA 9A 49 71 8A C0
+        10x  9A 49 71 8A C0 77
+        10x  49 71 8A C0 77 EE
+        10x  B1 30 12 5B E1 05
+        10x  30 12 5B E1 05 BB
+        10x  12 5B E1 05 BB 60
+         9x  5D 86 B0 01 B9 5B
+         9x  93 50 BB 58 C8 44
+         9x  62 2A A6 86 CF BE
+         9x  8C 67 4F 5A F7 1D
+         9x  81 8D D1 FF E2 80
+         9x  0D D7 BD C8 2C BD
+         9x  53 87 57 78 7F 28
+         9x  C4 13 64 45 F4 F5
+         9x  63 C9 2D 54 C6 54
+         9x  3B C4 47 EC 3B E9
+         9x  C4 47 EC 3B E9 61
+         9x  47 EC 3B E9 61 44
+         9x  10 FB B5 62 C1 4F
+         9x  8B 71 DC ED A2 FB
+         9x  BB 60 1D C7 3F 95
+         9x  F4 AA 4B AE 50 19
+         9x  05 47 87 57 78 7F
+         9x  33 7E 77 40 95 E3
+         9x  6A C8 30 CC 32 5D
+         9x  0C 0E AC 87 5D 98
+         9x  FA 32 BF ED AD 4E
+         9x  9E 49 DB DD 81 7D
+         9x  B5 94 96 FB 26 9D
+         9x  B7 5D DB DD 81 7D
+         9x  02 6C 28 0C 0F 81
+         9x  D3 CA A1 31 6E D6
+         9x  4E E2 82 79 0E C5
+         9x  2D BA 5B BE 64 52
+         9x  BA 5B BE 64 52 F2
+         9x  5B BE 64 52 F2 17
+         9x  FA DA 46 39 18 6C
+         9x  DA 46 39 18 6C 68
+         9x  46 39 18 6C 68 51
+         9x  20 1A C7 5B 1A 9D
+         9x  1A C7 5B 1A 9D FE
+         9x  C7 5B 1A 9D FE 5C
+         9x  2C 53 87 57 78 7F
+         9x  1B 2E D8 91 DD 7E
+         9x  E0 9B DD CD 7C 8E
+         9x  85 EF 99 FA 39 A1
+
+================================================================================
+SEQUÊNCIAS REPETIDAS: 8 BYTES
+================================================================================
+        52x  01 01 01 01 01 01 01 01
+        14x  AC 70 85 76 BB D3 84 F6
+        14x  01 71 38 D2 54 BD 28 E3
+        13x  59 46 9E E1 A6 11 56 B3
+        13x  74 C5 7E 78 FE 2F DC DB
+        13x  9F 3A 7C A4 F6 0D DF 7B
+        12x  3E 38 CF 23 74 3C 2A ED
+        12x  A5 01 FB 7F 8C 77 FC 9A
+        11x  C7 1B 88 99 7C 3B 63 26
+        11x  48 D5 F1 38 A9 F0 27 13
+        11x  EE 43 7F 19 83 F8 C8 A3
+        11x  BA 9E CD D0 EF FA 04 A5
+        11x  8D 81 BC A9 72 6B 69 4A
+        10x  3F 19 6F 82 A5 D7 24 3C
+        10x  72 B6 55 51 82 B6 FB 14
+        10x  7A 8E 74 0E 36 39 42 9C
+        10x  47 8F 61 E6 4F 0F ED 21
+        10x  B3 56 90 6D FF 0E 7F BF
+        10x  54 31 E8 32 43 E0 7A 6D
+        10x  7C 91 76 D8 97 C3 B9 D1
+        10x  DF 24 BA 9D 59 89 B1 F7
+        10x  A6 68 E9 4D 8D CE 2C 2D
+        10x  0D 59 5C 16 98 1B 70 A0
+        10x  92 66 19 F8 5B D0 14 08
+        10x  15 12 15 CD F5 71 8E 86
+        10x  E2 4E DA FA 9D BC 18 F9
+        10x  5F C2 94 86 03 8C 06 47
+        10x  3A 97 0A 1C 3D 87 1A 6C
+        10x  EA 9A 49 71 8A C0 77 EE
+        10x  B1 30 12 5B E1 05 BB 60
+         9x  3B C4 47 EC 3B E9 61 44
+         9x  2D BA 5B BE 64 52 F2 17
+         9x  FA DA 46 39 18 6C 68 51
+         9x  20 1A C7 5B 1A 9D FE 5C
+         9x  CC EE A0 4C 9A ED 6C 1C
+         9x  27 B5 EC 88 2F 20 C0 36
+         9x  F4 EF AE 41 F2 EE E2 FB
+         9x  FC F1 70 86 5E A7 99 A2
+         9x  96 6F A3 80 67 1E 87 F4
+         9x  AE BF 6C 3D 91 5D 29 A7
+         9x  9A 2B 3D 0A 88 83 E0 D5
+         9x  6A 1E 2E 0B 75 02 51 30
+         9x  90 A2 A9 5C 33 97 C4 7A
+         9x  83 96 0A 69 77 E8 53 7E
+         9x  FE 20 3F A8 BC 4C 4C AD
+         9x  4E F0 53 15 00 12 AC 69
+         9x  D8 A8 B8 34 FC 2D 0F 33
+         9x  28 AC 85 76 18 57 56 F2
+         9x  27 B5 CC 48 EF 20 C4 76
+         8x  BD 7C 22 31 C1 38 09 39
+         8x  F0 07 65 FA A4 D4 46 3D
+         8x  1D 79 F4 63 42 CF AA D3
+         8x  B7 6C 73 EF 7D B4 23 00
+         8x  BC 29 D5 AE B0 A6 D8 50
+         8x  4F 39 63 A2 DD 7D 08 0D
+         8x  CE 53 AA E4 A8 CC 3D 89
+         8x  9E 2A ED 96 C5 06 00 90
+         8x  85 CB 21 4A FB 86 13 71
+         8x  A1 E3 45 EA B2 3A B6 6F
+         8x  0E 0E 9F 34 C9 53 FA 62
+         8x  49 E4 25 6B E8 DE B7 75
+         8x  B5 3C 9B 54 5C 96 39 72
+         8x  EA 9A 69 B1 4A C0 73 AE
+         8x  2E A5 4C 5F 46 59 81 E8
+         8x  C2 B2 08 48 6C 33 CB E4
+         8x  B9 64 43 83 4D A0 A2 5A
+         8x  18 BC DF 62 41 C7 96 AB
+         8x  E4 84 3C 92 E5 6E 85 24
+         8x  F3 AD C6 BB 02 19 A7 6E
+         8x  EC AE CB 68 CC A4 AE 63
+         8x  AF 8A DC A3 10 74 77 66
+         8x  E9 25 A7 D6 A1 9C 82 8C
+         8x  09 55 A4 F0 F7 B9 CA 5F
+         8x  5E C6 0B 0C A3 50 8C 8E
+         8x  AA DD FC 2E 26 4E 5B 3F
+         8x  D9 87 A9 E1 B3 26 A2 A1
+         8x  76 6D 22 98 B1 0B DF 7E
+         8x  F9 8D 4D D2 7D 9F B0 17
+         8x  A5 01 DB BF 4C 77 F8 DA
+         8x  05 93 A2 32 AE 75 FB 3F
+         8x  F6 34 E4 5F AD DD 32 9D
+         8x  57 B8 64 77 D2 4D C9 B0
+         8x  09 55 84 30 37 B9 CE 1F
+         8x  19 C1 59 D8 11 76 6B 8A
+         8x  D4 69 E9 B7 88 4B 5E 50
+         8x  18 BC FF A2 81 C7 92 EB
+         7x  9C E7 DA D5 61 23 0E 40
+         7x  14 3F 3B FB 9D 46 4A 42
+         7x  38 36 13 5E 76 31 76 EC
+         7x  E1 EC B2 53 A0 BA 88 28
+         7x  34 A9 62 F5 37 8D 94 53
+         7x  75 94 E5 9C 4C 61 E3 60
+         7x  C6 0C 27 29 7E F4 C3 EA
+         7x  E5 9D 26 B3 60 C4 95 6B
+         7x  E7 CF 1A AF 78 1A 32 02
+         7x  51 49 84 8F 40 A5 0F 38
+         7x  F9 8D 6D 12 BD 9F B4 57
+         7x  64 2E 59 03 90 9E E1 34
+         7x  DB 00 B8 E5 45 D6 CE 83
+         7x  6D 7A C5 93 EA DC 2F 1E
+         7x  6E 7B B6 35 86 22 D5 B5
+         7x  C3 14 AB 36 FA D1 BC 58
+         7x  5B A7 35 49 30 44 30 FF
+         7x  17 83 BE 42 E1 01 D9 D2
+         7x  D3 75 40 BF 0B 63 7B 1A
+         7x  53 BB F2 67 AF 30 BE BD
+         7x  A3 7F 3E 40 8B B0 BB 06
+         7x  F7 D4 93 50 F0 00 EC A6
+         7x  07 06 99 D4 2C AE AF 97
+         7x  58 16 A8 27 B1 E4 67 CB
+         7x  8E DE D2 55 47 CA 7E 4C
+         7x  2B 98 54 A7 0F 18 3F D9
+         7x  62 73 FD 08 D0 A2 F3 8A
+         7x  04 01 71 38 D2 54 BD 28
+         7x  97 C0 1F A6 14 CB B3 78
+         7x  55 CA 31 43 0C 0A 5F 94
+         7x  4D B7 6A E2 D4 43 74 0A
+         7x  08 FD BB E3 27 17 93 C6
+         7x  7B 9C D1 1E 93 73 9D 45
+         7x  02 D1 EF FC 8E 37 F6 EE
+         7x  06 D8 9D 2B 4E AF 1D 70
+         7x  81 BC A9 72 6B 69 4A D4
+         7x  90 A2 89 9C F3 97 C0 3A
+         7x  DA 3E CA BA 91 95 7C AB
+         7x  36 27 F8 05 20 AD D9 FC
+         7x  10 B4 00 3E C4 28 A4 C8
+         7x  22 82 58 60 24 AC D7 36
+         7x  BE C8 3C 0E DE FC 50 7B
+         7x  01 71 18 12 94 BD 2C A3
+         7x  50 B1 30 12 5B E1 05 BB
+         7x  1E CD D0 FE 6D E6 1B 06
+         7x  DE 15 FE 7D 78 41 FD 49
+         7x  4D B7 4A 22 14 43 70 4A
+         7x  60 67 7E 99 67 36 76 CB
+         7x  37 A0 6B CD 41 E5 EE 73
+         7x  7E 61 7F 7C FE E7 93 9A
+         7x  64 2E 79 C3 50 9E E5 74
+         6x  FD BD D9 AB 16 EA 0A 29
+         6x  26 ED 2D 04 AC 04 21 37
+         6x  DE 15 DE BD B8 41 F9 09
+         6x  E2 4E FA 3A 5D BC 1C B9
+         6x  B8 E8 09 4B 1C 8F 43 52
+         6x  99 A1 C0 D7 D5 8E BA 1D
+         6x  FF E7 CF 1A AF 78 1A 32
+         6x  3C 60 BF CF 25 B2 FD C5
+         6x  8C 1C 37 6E 62 88 F0 C4
+         6x  43 88 87 1C 84 7E 4D DF
+         6x  D9 87 89 21 73 26 A6 E1
+         6x  12 44 AD 98 7F 1C 98 9B
+         6x  C4 F5 8E E7 89 E1 06 7C
+         6x  9B 6A F8 66 0D 24 5C 41
+         6x  56 74 CA 2A A2 92 01 F3
+         6x  4B FF 4E B8 3D DF B0 55
+         6x  1A 2C 4F 65 BF 8A 62 0C
+         6x  44 92 DB 52 99 2B 48 5D
+         6x  C0 80 F9 07 22 34 64 18
+         6x  B2 FB 05 B9 B5 99 C1 D6
+         6x  FF 5A 60 EB 8A 35 58 D4
+         6x  73 28 D0 DB 09 4F F5 C7
+         6x  CF 13 30 70 52 E2 2D FC
+         6x  66 E9 8D EE 24 C2 C9 85
+         6x  4C 89 3A A5 49 79 91 E2
+         6x  05 93 82 F2 6E 75 FF 7F
+         6x  03 0A 96 DF FC A8 C5 F8
+         6x  19 C1 79 18 D1 76 6F CA
+         6x  41 F2 E2 0F B3 55 EE 80
+         6x  21 1F 1E 25 2A 58 E6 5B
+         6x  3A 97 2A DC FD 87 1E 2C
+         6x  37 A0 4B 0D 81 E5 EA 33
+         6x  FB A5 01 FB 7F 8C 77 FC
+         6x  F2 52 48 91 57 85 6A FA
+         6x  46 3B EB F9 F3 91 47 67
+         6x  77 22 E6 00 5A 27 71 FE
+         6x  48 3E 38 CF 23 74 3C 2A
+         6x  40 D0 B1 11 C4 51 CC 54
+         6x  84 95 0C 94 9C 84 6B 7D
+         6x  C5 8C F5 7C 68 48 18 C2
+         6x  2A CC B3 DA D6 1F F8 5E
+         6x  7E 61 5F BC 3E E7 97 DA
+         6x  E5 7A 8E 74 0E 36 39 42
+         6x  C9 A3 2B DE E9 C5 11 95
+         6x  A0 21 B7 85 C6 69 22 32
+         6x  70 85 76 BB D3 84 F6 1A
+         6x  A4 0F 97 4F 03 80 E4 F5
+         6x  81 D9 A2 F6 CB 67 19 15
+         6x  16 7E B0 95 7B 9A 83 B1
+         6x  39 F3 23 2D B7 DA 80 31
+         6x  9F AC 70 85 76 BB D3 84
+         6x  C1 72 E3 B2 D1 FE 69 C2
+         6x  8B DB 24 75 23 A9 37 0F
+         6x  29 5F D6 02 98 A3 33 A0
+         6x  8E DE F2 95 87 CA 7A 0C
+         6x  4C 76 6D 22 98 B1 0B DF
+         6x  02 D1 CF 3C 4E 37 F2 AE
+         6x  30 F9 57 BB E0 B7 EF C4
+         6x  8A D3 81 06 A5 FD 38 2C
+         6x  CE 53 8A 24 68 CC 39 C9
+         6x  AE BF 4C FD 51 5D 2D E7
+         6x  91 18 B1 9A 74 EC 45 DD
+         6x  00 23 23 72 00 15 82 39
+
+================================================================================
+SEQUÊNCIAS REPETIDAS: 12 BYTES
+================================================================================
+        48x  01 01 01 01 01 01 01 01 01 01 01 01
+         5x  15 40 13 51 8B 23 C9 ED 9E E7 0E 3D
+         5x  C0 A0 C8 E7 89 5C 41 E2 FD F3 C6 25
+         4x  41 63 63 65 70 74 2D 45 6E 63 6F 64
+         4x  63 63 65 70 74 2D 45 6E 63 6F 64 69
+         4x  63 65 70 74 2D 45 6E 63 6F 64 69 6E
+         4x  65 70 74 2D 45 6E 63 6F 64 69 6E 67
+         4x  74 2D 45 6E 63 6F 64 69 6E 67 3A 20
+         4x  13 6A 2B 29 DF C5 33 8A FB 74 E0 27
+         4x  F7 D5 66 E5 42 7E 04 FE 82 F8 A5 26
+         4x  8D 16 CB 12 98 43 55 49 C6 F2 44 7A
+         4x  EA 69 57 99 2E 5F 4A 60 55 79 37 A9
+         3x  F5 60 91 93 F4 54 0C 79 49 22 24 70
+         3x  60 91 93 F4 54 0C 79 49 22 24 70 6C
+         3x  91 93 F4 54 0C 79 49 22 24 70 6C 8C
+         3x  93 F4 54 0C 79 49 22 24 70 6C 8C A7
+         3x  F4 54 0C 79 49 22 24 70 6C 8C A7 2E
+         3x  09 1C 2E 9B E2 41 D6 CD CD DD 6F D5
+         3x  1C 2E 9B E2 41 D6 CD CD DD 6F D5 84
+         3x  2E 9B E2 41 D6 CD CD DD 6F D5 84 6A
+         3x  9B E2 41 D6 CD CD DD 6F D5 84 6A 0B
+         3x  E2 41 D6 CD CD DD 6F D5 84 6A 0B 1E
+         3x  EC E2 FB C1 54 DD 05 AA 62 BD CF 20
+         3x  E2 FB C1 54 DD 05 AA 62 BD CF 20 CA
+         3x  FB C1 54 DD 05 AA 62 BD CF 20 CA 6A
+         3x  C1 54 DD 05 AA 62 BD CF 20 CA 6A 84
+         3x  54 DD 05 AA 62 BD CF 20 CA 6A 84 95
+         3x  DD 05 AA 62 BD CF 20 CA 6A 84 95 58
+         3x  5F D9 A0 A4 46 07 1B C7 5E B9 60 19
+         3x  D9 A0 A4 46 07 1B C7 5E B9 60 19 20
+         3x  A0 A4 46 07 1B C7 5E B9 60 19 20 02
+         3x  A4 46 07 1B C7 5E B9 60 19 20 02 D8
+         3x  46 07 1B C7 5E B9 60 19 20 02 D8 1E
+         3x  07 1B C7 5E B9 60 19 20 02 D8 1E 5B
+         3x  67 79 6D 57 A8 6A 28 B0 99 88 1D CC
+         3x  79 6D 57 A8 6A 28 B0 99 88 1D CC 11
+         3x  6D 57 A8 6A 28 B0 99 88 1D CC 11 26
+         3x  6F 15 A0 6D D2 FB 82 65 09 92 49 1E
+         3x  89 D2 C4 04 A9 BD FA 94 99 07 24 DD
+         3x  D2 C4 04 A9 BD FA 94 99 07 24 DD 72
+         3x  C4 04 A9 BD FA 94 99 07 24 DD 72 C0
+         3x  04 A9 BD FA 94 99 07 24 DD 72 C0 AE
+         3x  A9 BD FA 94 99 07 24 DD 72 C0 AE C0
+         3x  BD FA 94 99 07 24 DD 72 C0 AE C0 11
+         3x  FA 94 99 07 24 DD 72 C0 AE C0 11 5F
+         3x  94 99 07 24 DD 72 C0 AE C0 11 5F E3
+         3x  99 07 24 DD 72 C0 AE C0 11 5F E3 70
+         3x  07 24 DD 72 C0 AE C0 11 5F E3 70 D3
+         3x  24 DD 72 C0 AE C0 11 5F E3 70 D3 4A
+         3x  DD 72 C0 AE C0 11 5F E3 70 D3 4A C6
+         3x  62 62 8C 8C D5 96 4C 96 8A 87 8E B1
+         3x  62 8C 8C D5 96 4C 96 8A 87 8E B1 2B
+         3x  8C 8C D5 96 4C 96 8A 87 8E B1 2B E8
+         3x  8C D5 96 4C 96 8A 87 8E B1 2B E8 A7
+         3x  D5 96 4C 96 8A 87 8E B1 2B E8 A7 BE
+         3x  96 4C 96 8A 87 8E B1 2B E8 A7 BE 4C
+         3x  4C 96 8A 87 8E B1 2B E8 A7 BE 4C 5C
+         3x  96 8A 87 8E B1 2B E8 A7 BE 4C 5C 79
+         3x  8A 87 8E B1 2B E8 A7 BE 4C 5C 79 C2
+         3x  87 8E B1 2B E8 A7 BE 4C 5C 79 C2 6C
+         3x  8E B1 2B E8 A7 BE 4C 5C 79 C2 6C 61
+         3x  B1 2B E8 A7 BE 4C 5C 79 C2 6C 61 FF
+         3x  55 FB 86 15 E6 1F AA 98 48 38 4C 73
+         3x  FB 86 15 E6 1F AA 98 48 38 4C 73 58
+         3x  86 15 E6 1F AA 98 48 38 4C 73 58 16
+         3x  15 E6 1F AA 98 48 38 4C 73 58 16 EC
+         3x  E6 1F AA 98 48 38 4C 73 58 16 EC 3A
+         3x  1F AA 98 48 38 4C 73 58 16 EC 3A 0D
+         3x  AA 98 48 38 4C 73 58 16 EC 3A 0D 6E
+         3x  98 48 38 4C 73 58 16 EC 3A 0D 6E 61
+         3x  48 38 4C 73 58 16 EC 3A 0D 6E 61 7E
+         3x  38 4C 73 58 16 EC 3A 0D 6E 61 7E CA
+         3x  4C 73 58 16 EC 3A 0D 6E 61 7E CA F5
+         3x  73 58 16 EC 3A 0D 6E 61 7E CA F5 48
+         3x  CC 3E 9F E8 F1 E1 FE B5 AD 19 CE E3
+         3x  3E 9F E8 F1 E1 FE B5 AD 19 CE E3 9D
+         3x  9F E8 F1 E1 FE B5 AD 19 CE E3 9D 9F
+         3x  E8 F1 E1 FE B5 AD 19 CE E3 9D 9F 94
+         3x  F1 E1 FE B5 AD 19 CE E3 9D 9F 94 83
+         3x  E1 FE B5 AD 19 CE E3 9D 9F 94 83 3C
+         3x  FE B5 AD 19 CE E3 9D 9F 94 83 3C 71
+         3x  B5 AD 19 CE E3 9D 9F 94 83 3C 71 0E
+         3x  AD 19 CE E3 9D 9F 94 83 3C 71 0E 69
+         3x  19 CE E3 9D 9F 94 83 3C 71 0E 69 5D
+         3x  CE E3 9D 9F 94 83 3C 71 0E 69 5D 8A
+         3x  E3 9D 9F 94 83 3C 71 0E 69 5D 8A 8F
+         3x  3F 7B 27 40 B8 65 64 11 68 2D 8E 39
+         3x  7B 27 40 B8 65 64 11 68 2D 8E 39 10
+         3x  27 40 B8 65 64 11 68 2D 8E 39 10 08
+         3x  89 E2 B4 4A 3E 78 3F 7A 94 EC 59 89
+         3x  AF 41 4B 5F 82 63 08 F1 81 AD B8 DE
+         3x  19 11 9B C1 75 F8 B8 1D 95 1B 34 19
+         3x  EE 65 26 79 47 8A 99 15 E5 5D FA 5D
+         3x  64 A0 AC FF 15 40 13 51 8B 23 C9 ED
+         3x  A0 AC FF 15 40 13 51 8B 23 C9 ED 9E
+         3x  AC FF 15 40 13 51 8B 23 C9 ED 9E E7
+         3x  FF 15 40 13 51 8B 23 C9 ED 9E E7 0E
+         3x  40 13 51 8B 23 C9 ED 9E E7 0E 3D CD
+         3x  13 51 8B 23 C9 ED 9E E7 0E 3D CD 48
+         3x  51 8B 23 C9 ED 9E E7 0E 3D CD 48 C7
+         3x  8B 23 C9 ED 9E E7 0E 3D CD 48 C7 3D
+         3x  23 C9 ED 9E E7 0E 3D CD 48 C7 3D E0
+         3x  C9 ED 9E E7 0E 3D CD 48 C7 3D E0 C4
+         3x  ED 9E E7 0E 3D CD 48 C7 3D E0 C4 BC
+         3x  4E 4A F4 FA C0 A0 C8 E7 89 5C 41 E2
+         3x  4A F4 FA C0 A0 C8 E7 89 5C 41 E2 FD
+         3x  F4 FA C0 A0 C8 E7 89 5C 41 E2 FD F3
+         3x  FA C0 A0 C8 E7 89 5C 41 E2 FD F3 C6
+         3x  A0 C8 E7 89 5C 41 E2 FD F3 C6 25 7B
+         3x  C8 E7 89 5C 41 E2 FD F3 C6 25 7B DE
+         3x  E7 89 5C 41 E2 FD F3 C6 25 7B DE 07
+         3x  89 5C 41 E2 FD F3 C6 25 7B DE 07 E6
+         3x  5C 41 E2 FD F3 C6 25 7B DE 07 E6 0B
+         3x  41 E2 FD F3 C6 25 7B DE 07 E6 0B B4
+         3x  E2 FD F3 C6 25 7B DE 07 E6 0B B4 50
+         3x  6B F6 14 45 13 6A 2B 29 DF C5 33 8A
+         3x  F6 14 45 13 6A 2B 29 DF C5 33 8A FB
+         3x  14 45 13 6A 2B 29 DF C5 33 8A FB 74
+         3x  45 13 6A 2B 29 DF C5 33 8A FB 74 E0
+         3x  6A 2B 29 DF C5 33 8A FB 74 E0 27 F5
+         3x  2B 29 DF C5 33 8A FB 74 E0 27 F5 93
+         3x  29 DF C5 33 8A FB 74 E0 27 F5 93 F1
+         3x  DF C5 33 8A FB 74 E0 27 F5 93 F1 D6
+         3x  C5 33 8A FB 74 E0 27 F5 93 F1 D6 4A
+         3x  33 8A FB 74 E0 27 F5 93 F1 D6 4A 08
+         3x  8A FB 74 E0 27 F5 93 F1 D6 4A 08 BD
+         3x  F8 13 E3 B4 5F C1 FC 1C 1D 34 2C 59
+         3x  94 A7 7D A1 20 1E A0 91 8F 25 5F 39
+         3x  DD BE 5E 6D F7 D5 66 E5 42 7E 04 FE
+         3x  BE 5E 6D F7 D5 66 E5 42 7E 04 FE 82
+         3x  5E 6D F7 D5 66 E5 42 7E 04 FE 82 F8
+         3x  6D F7 D5 66 E5 42 7E 04 FE 82 F8 A5
+         3x  D5 66 E5 42 7E 04 FE 82 F8 A5 26 A1
+         3x  66 E5 42 7E 04 FE 82 F8 A5 26 A1 8C
+         3x  E5 42 7E 04 FE 82 F8 A5 26 A1 8C 8D
+         3x  42 7E 04 FE 82 F8 A5 26 A1 8C 8D AA
+         3x  7E 04 FE 82 F8 A5 26 A1 8C 8D AA F4
+         3x  04 FE 82 F8 A5 26 A1 8C 8D AA F4 A5
+         3x  FE 82 F8 A5 26 A1 8C 8D AA F4 A5 49
+         3x  82 F8 A5 26 A1 8C 8D AA F4 A5 49 81
+         3x  BB 69 C8 11 8D 16 CB 12 98 43 55 49
+         3x  69 C8 11 8D 16 CB 12 98 43 55 49 C6
+         3x  C8 11 8D 16 CB 12 98 43 55 49 C6 F2
+         3x  11 8D 16 CB 12 98 43 55 49 C6 F2 44
+         3x  16 CB 12 98 43 55 49 C6 F2 44 7A 3B
+         3x  CB 12 98 43 55 49 C6 F2 44 7A 3B BC
+         3x  12 98 43 55 49 C6 F2 44 7A 3B BC A3
+         3x  98 43 55 49 C6 F2 44 7A 3B BC A3 E8
+         3x  43 55 49 C6 F2 44 7A 3B BC A3 E8 7F
+         3x  55 49 C6 F2 44 7A 3B BC A3 E8 7F 56
+         3x  49 C6 F2 44 7A 3B BC A3 E8 7F 56 D3
+         3x  2C 09 85 87 83 73 19 31 FF DD C2 23
+         3x  09 85 87 83 73 19 31 FF DD C2 23 1F
+         3x  85 87 83 73 19 31 FF DD C2 23 1F 8A
+         3x  87 83 73 19 31 FF DD C2 23 1F 8A 86
+         3x  83 73 19 31 FF DD C2 23 1F 8A 86 46
+         3x  73 19 31 FF DD C2 23 1F 8A 86 46 7F
+         3x  19 31 FF DD C2 23 1F 8A 86 46 7F FE
+         3x  31 FF DD C2 23 1F 8A 86 46 7F FE 7E
+         3x  FF DD C2 23 1F 8A 86 46 7F FE 7E 63
+         3x  DD C2 23 1F 8A 86 46 7F FE 7E 63 88
+         3x  C2 23 1F 8A 86 46 7F FE 7E 63 88 00
+         3x  23 1F 8A 86 46 7F FE 7E 63 88 00 89
+         3x  15 B4 D3 D8 EA 69 57 99 2E 5F 4A 60
+         3x  B4 D3 D8 EA 69 57 99 2E 5F 4A 60 55
+         3x  D3 D8 EA 69 57 99 2E 5F 4A 60 55 79
+         3x  D8 EA 69 57 99 2E 5F 4A 60 55 79 37
+         3x  69 57 99 2E 5F 4A 60 55 79 37 A9 E2
+         3x  57 99 2E 5F 4A 60 55 79 37 A9 E2 25
+         3x  99 2E 5F 4A 60 55 79 37 A9 E2 25 4F
+         3x  2E 5F 4A 60 55 79 37 A9 E2 25 4F 04
+         3x  5F 4A 60 55 79 37 A9 E2 25 4F 04 05
+         3x  4A 60 55 79 37 A9 E2 25 4F 04 05 6A
+         3x  60 55 79 37 A9 E2 25 4F 04 05 6A 81
+         3x  EB 77 E9 AA 0A CC 59 36 A2 C2 DF D6
+         3x  E6 1D 8E 38 87 4C C5 26 48 98 4C 1E
+         3x  1D 8E 38 87 4C C5 26 48 98 4C 1E 0B
+         3x  8E 38 87 4C C5 26 48 98 4C 1E 0B 22
+         3x  38 87 4C C5 26 48 98 4C 1E 0B 22 FA
+         3x  87 4C C5 26 48 98 4C 1E 0B 22 FA E1
+         3x  2D 64 BA 13 A2 6F ED 95 D4 CD F4 21
+         3x  F9 AE 51 6A 86 DF 11 2D E7 AA 1B 9E
+         3x  F0 4E FF 7B 92 48 DE 72 4E 3D 0E A9
+         3x  4E FF 7B 92 48 DE 72 4E 3D 0E A9 EB
+         3x  FF 7B 92 48 DE 72 4E 3D 0E A9 EB 80
+         3x  7B 92 48 DE 72 4E 3D 0E A9 EB 80 5E
+         3x  92 48 DE 72 4E 3D 0E A9 EB 80 5E 85
+         3x  48 DE 72 4E 3D 0E A9 EB 80 5E 85 45
+         3x  DE 72 4E 3D 0E A9 EB 80 5E 85 45 E1
+         3x  72 4E 3D 0E A9 EB 80 5E 85 45 E1 71
+         3x  4E 3D 0E A9 EB 80 5E 85 45 E1 71 1C
+         3x  3D 0E A9 EB 80 5E 85 45 E1 71 1C 97
+         3x  0E A9 EB 80 5E 85 45 E1 71 1C 97 BA
+         3x  A9 EB 80 5E 85 45 E1 71 1C 97 BA CF
+         3x  0B 52 E1 DF A1 18 1E DE 1C CB 14 1D
+         3x  D0 1B 4D 17 52 34 96 0B D0 28 36 97
+         3x  35 A3 53 EF 4C AF 94 F3 2A 87 D0 9D
+         3x  6A 26 72 A2 FC DB D8 2A B6 C5 CE CE
+         3x  04 30 A9 8B 00 DA AB 59 0E 84 86 3B
+         3x  E9 25 9D D5 30 1C 3F D0 BA DD 8B 9B
+
+================================================================================
+SEQUÊNCIAS REPETIDAS: 16 BYTES
+================================================================================
+        44x  01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01
+         3x  F5 60 91 93 F4 54 0C 79 49 22 24 70 6C 8C A7 2E
+         3x  09 1C 2E 9B E2 41 D6 CD CD DD 6F D5 84 6A 0B 1E
+         3x  EC E2 FB C1 54 DD 05 AA 62 BD CF 20 CA 6A 84 95
+         3x  E2 FB C1 54 DD 05 AA 62 BD CF 20 CA 6A 84 95 58
+         3x  5F D9 A0 A4 46 07 1B C7 5E B9 60 19 20 02 D8 1E
+         3x  D9 A0 A4 46 07 1B C7 5E B9 60 19 20 02 D8 1E 5B
+         3x  89 D2 C4 04 A9 BD FA 94 99 07 24 DD 72 C0 AE C0
+         3x  D2 C4 04 A9 BD FA 94 99 07 24 DD 72 C0 AE C0 11
+         3x  C4 04 A9 BD FA 94 99 07 24 DD 72 C0 AE C0 11 5F
+         3x  04 A9 BD FA 94 99 07 24 DD 72 C0 AE C0 11 5F E3
+         3x  A9 BD FA 94 99 07 24 DD 72 C0 AE C0 11 5F E3 70
+         3x  BD FA 94 99 07 24 DD 72 C0 AE C0 11 5F E3 70 D3
+         3x  FA 94 99 07 24 DD 72 C0 AE C0 11 5F E3 70 D3 4A
+         3x  94 99 07 24 DD 72 C0 AE C0 11 5F E3 70 D3 4A C6
+         3x  62 62 8C 8C D5 96 4C 96 8A 87 8E B1 2B E8 A7 BE
+         3x  62 8C 8C D5 96 4C 96 8A 87 8E B1 2B E8 A7 BE 4C
+         3x  8C 8C D5 96 4C 96 8A 87 8E B1 2B E8 A7 BE 4C 5C
+         3x  8C D5 96 4C 96 8A 87 8E B1 2B E8 A7 BE 4C 5C 79
+         3x  D5 96 4C 96 8A 87 8E B1 2B E8 A7 BE 4C 5C 79 C2
+         3x  96 4C 96 8A 87 8E B1 2B E8 A7 BE 4C 5C 79 C2 6C
+         3x  4C 96 8A 87 8E B1 2B E8 A7 BE 4C 5C 79 C2 6C 61
+         3x  96 8A 87 8E B1 2B E8 A7 BE 4C 5C 79 C2 6C 61 FF
+         3x  55 FB 86 15 E6 1F AA 98 48 38 4C 73 58 16 EC 3A
+         3x  FB 86 15 E6 1F AA 98 48 38 4C 73 58 16 EC 3A 0D
+         3x  86 15 E6 1F AA 98 48 38 4C 73 58 16 EC 3A 0D 6E
+         3x  15 E6 1F AA 98 48 38 4C 73 58 16 EC 3A 0D 6E 61
+         3x  E6 1F AA 98 48 38 4C 73 58 16 EC 3A 0D 6E 61 7E
+         3x  1F AA 98 48 38 4C 73 58 16 EC 3A 0D 6E 61 7E CA
+         3x  AA 98 48 38 4C 73 58 16 EC 3A 0D 6E 61 7E CA F5
+         3x  98 48 38 4C 73 58 16 EC 3A 0D 6E 61 7E CA F5 48
+         3x  CC 3E 9F E8 F1 E1 FE B5 AD 19 CE E3 9D 9F 94 83
+         3x  3E 9F E8 F1 E1 FE B5 AD 19 CE E3 9D 9F 94 83 3C
+         3x  9F E8 F1 E1 FE B5 AD 19 CE E3 9D 9F 94 83 3C 71
+         3x  E8 F1 E1 FE B5 AD 19 CE E3 9D 9F 94 83 3C 71 0E
+         3x  F1 E1 FE B5 AD 19 CE E3 9D 9F 94 83 3C 71 0E 69
+         3x  E1 FE B5 AD 19 CE E3 9D 9F 94 83 3C 71 0E 69 5D
+         3x  FE B5 AD 19 CE E3 9D 9F 94 83 3C 71 0E 69 5D 8A
+         3x  B5 AD 19 CE E3 9D 9F 94 83 3C 71 0E 69 5D 8A 8F
+         3x  64 A0 AC FF 15 40 13 51 8B 23 C9 ED 9E E7 0E 3D
+         3x  A0 AC FF 15 40 13 51 8B 23 C9 ED 9E E7 0E 3D CD
+         3x  AC FF 15 40 13 51 8B 23 C9 ED 9E E7 0E 3D CD 48
+         3x  FF 15 40 13 51 8B 23 C9 ED 9E E7 0E 3D CD 48 C7
+         3x  15 40 13 51 8B 23 C9 ED 9E E7 0E 3D CD 48 C7 3D
+         3x  40 13 51 8B 23 C9 ED 9E E7 0E 3D CD 48 C7 3D E0
+         3x  13 51 8B 23 C9 ED 9E E7 0E 3D CD 48 C7 3D E0 C4
+         3x  51 8B 23 C9 ED 9E E7 0E 3D CD 48 C7 3D E0 C4 BC
+         3x  4E 4A F4 FA C0 A0 C8 E7 89 5C 41 E2 FD F3 C6 25
+         3x  4A F4 FA C0 A0 C8 E7 89 5C 41 E2 FD F3 C6 25 7B
+         3x  F4 FA C0 A0 C8 E7 89 5C 41 E2 FD F3 C6 25 7B DE
+         3x  FA C0 A0 C8 E7 89 5C 41 E2 FD F3 C6 25 7B DE 07
+         3x  C0 A0 C8 E7 89 5C 41 E2 FD F3 C6 25 7B DE 07 E6
+         3x  A0 C8 E7 89 5C 41 E2 FD F3 C6 25 7B DE 07 E6 0B
+         3x  C8 E7 89 5C 41 E2 FD F3 C6 25 7B DE 07 E6 0B B4
+         3x  E7 89 5C 41 E2 FD F3 C6 25 7B DE 07 E6 0B B4 50
+         3x  6B F6 14 45 13 6A 2B 29 DF C5 33 8A FB 74 E0 27
+         3x  F6 14 45 13 6A 2B 29 DF C5 33 8A FB 74 E0 27 F5
+         3x  14 45 13 6A 2B 29 DF C5 33 8A FB 74 E0 27 F5 93
+         3x  45 13 6A 2B 29 DF C5 33 8A FB 74 E0 27 F5 93 F1
+         3x  13 6A 2B 29 DF C5 33 8A FB 74 E0 27 F5 93 F1 D6
+         3x  6A 2B 29 DF C5 33 8A FB 74 E0 27 F5 93 F1 D6 4A
+         3x  2B 29 DF C5 33 8A FB 74 E0 27 F5 93 F1 D6 4A 08
+         3x  29 DF C5 33 8A FB 74 E0 27 F5 93 F1 D6 4A 08 BD
+         3x  DD BE 5E 6D F7 D5 66 E5 42 7E 04 FE 82 F8 A5 26
+         3x  BE 5E 6D F7 D5 66 E5 42 7E 04 FE 82 F8 A5 26 A1
+         3x  5E 6D F7 D5 66 E5 42 7E 04 FE 82 F8 A5 26 A1 8C
+         3x  6D F7 D5 66 E5 42 7E 04 FE 82 F8 A5 26 A1 8C 8D
+         3x  F7 D5 66 E5 42 7E 04 FE 82 F8 A5 26 A1 8C 8D AA
+         3x  D5 66 E5 42 7E 04 FE 82 F8 A5 26 A1 8C 8D AA F4
+         3x  66 E5 42 7E 04 FE 82 F8 A5 26 A1 8C 8D AA F4 A5
+         3x  E5 42 7E 04 FE 82 F8 A5 26 A1 8C 8D AA F4 A5 49
+         3x  42 7E 04 FE 82 F8 A5 26 A1 8C 8D AA F4 A5 49 81
+         3x  BB 69 C8 11 8D 16 CB 12 98 43 55 49 C6 F2 44 7A
+         3x  69 C8 11 8D 16 CB 12 98 43 55 49 C6 F2 44 7A 3B
+         3x  C8 11 8D 16 CB 12 98 43 55 49 C6 F2 44 7A 3B BC
+         3x  11 8D 16 CB 12 98 43 55 49 C6 F2 44 7A 3B BC A3
+         3x  8D 16 CB 12 98 43 55 49 C6 F2 44 7A 3B BC A3 E8
+         3x  16 CB 12 98 43 55 49 C6 F2 44 7A 3B BC A3 E8 7F
+         3x  CB 12 98 43 55 49 C6 F2 44 7A 3B BC A3 E8 7F 56
+         3x  12 98 43 55 49 C6 F2 44 7A 3B BC A3 E8 7F 56 D3
+         3x  2C 09 85 87 83 73 19 31 FF DD C2 23 1F 8A 86 46
+         3x  09 85 87 83 73 19 31 FF DD C2 23 1F 8A 86 46 7F
+         3x  85 87 83 73 19 31 FF DD C2 23 1F 8A 86 46 7F FE
+         3x  87 83 73 19 31 FF DD C2 23 1F 8A 86 46 7F FE 7E
+         3x  83 73 19 31 FF DD C2 23 1F 8A 86 46 7F FE 7E 63
+         3x  73 19 31 FF DD C2 23 1F 8A 86 46 7F FE 7E 63 88
+         3x  19 31 FF DD C2 23 1F 8A 86 46 7F FE 7E 63 88 00
+         3x  31 FF DD C2 23 1F 8A 86 46 7F FE 7E 63 88 00 89
+         3x  15 B4 D3 D8 EA 69 57 99 2E 5F 4A 60 55 79 37 A9
+         3x  B4 D3 D8 EA 69 57 99 2E 5F 4A 60 55 79 37 A9 E2
+         3x  D3 D8 EA 69 57 99 2E 5F 4A 60 55 79 37 A9 E2 25
+         3x  D8 EA 69 57 99 2E 5F 4A 60 55 79 37 A9 E2 25 4F
+         3x  EA 69 57 99 2E 5F 4A 60 55 79 37 A9 E2 25 4F 04
+         3x  69 57 99 2E 5F 4A 60 55 79 37 A9 E2 25 4F 04 05
+         3x  57 99 2E 5F 4A 60 55 79 37 A9 E2 25 4F 04 05 6A
+         3x  99 2E 5F 4A 60 55 79 37 A9 E2 25 4F 04 05 6A 81
+         3x  E6 1D 8E 38 87 4C C5 26 48 98 4C 1E 0B 22 FA E1
+         3x  F0 4E FF 7B 92 48 DE 72 4E 3D 0E A9 EB 80 5E 85
+         3x  4E FF 7B 92 48 DE 72 4E 3D 0E A9 EB 80 5E 85 45
+         3x  FF 7B 92 48 DE 72 4E 3D 0E A9 EB 80 5E 85 45 E1
+         3x  7B 92 48 DE 72 4E 3D 0E A9 EB 80 5E 85 45 E1 71
+         3x  92 48 DE 72 4E 3D 0E A9 EB 80 5E 85 45 E1 71 1C
+         3x  48 DE 72 4E 3D 0E A9 EB 80 5E 85 45 E1 71 1C 97
+         3x  DE 72 4E 3D 0E A9 EB 80 5E 85 45 E1 71 1C 97 BA
+         3x  72 4E 3D 0E A9 EB 80 5E 85 45 E1 71 1C 97 BA CF
+         3x  E9 25 9D D5 30 1C 3F D0 BA DD 8B 9B 43 F4 DD AE
+         3x  25 9D D5 30 1C 3F D0 BA DD 8B 9B 43 F4 DD AE C5
+         3x  9D D5 30 1C 3F D0 BA DD 8B 9B 43 F4 DD AE C5 48
+         3x  E5 42 4F 5A 14 F4 4F 19 74 2D AC 4A 96 0D C5 6C
+         3x  42 4F 5A 14 F4 4F 19 74 2D AC 4A 96 0D C5 6C F1
+         3x  4F 5A 14 F4 4F 19 74 2D AC 4A 96 0D C5 6C F1 CE
+         3x  5A 14 F4 4F 19 74 2D AC 4A 96 0D C5 6C F1 CE 55
+         3x  14 F4 4F 19 74 2D AC 4A 96 0D C5 6C F1 CE 55 77
+         3x  F4 4F 19 74 2D AC 4A 96 0D C5 6C F1 CE 55 77 7A
+         3x  4F 19 74 2D AC 4A 96 0D C5 6C F1 CE 55 77 7A 8E
+         3x  19 74 2D AC 4A 96 0D C5 6C F1 CE 55 77 7A 8E 8E
+         3x  07 DF D6 54 0A 50 90 9B AE 8C 6A 20 AD A2 ED 69
+         3x  DF D6 54 0A 50 90 9B AE 8C 6A 20 AD A2 ED 69 5D
+         3x  D6 54 0A 50 90 9B AE 8C 6A 20 AD A2 ED 69 5D C0
+         3x  54 0A 50 90 9B AE 8C 6A 20 AD A2 ED 69 5D C0 B4
+         3x  0A 50 90 9B AE 8C 6A 20 AD A2 ED 69 5D C0 B4 B4
+         3x  50 90 9B AE 8C 6A 20 AD A2 ED 69 5D C0 B4 B4 FC
+         3x  90 9B AE 8C 6A 20 AD A2 ED 69 5D C0 B4 B4 FC AB
+         3x  9B AE 8C 6A 20 AD A2 ED 69 5D C0 B4 B4 FC AB 63
+         3x  28 60 13 A4 B2 68 F4 75 71 B7 40 72 98 64 53 82
+         3x  60 13 A4 B2 68 F4 75 71 B7 40 72 98 64 53 82 A6
+         3x  13 A4 B2 68 F4 75 71 B7 40 72 98 64 53 82 A6 B3
+         3x  A4 B2 68 F4 75 71 B7 40 72 98 64 53 82 A6 B3 3B
+         3x  B2 68 F4 75 71 B7 40 72 98 64 53 82 A6 B3 3B F9
+         3x  68 F4 75 71 B7 40 72 98 64 53 82 A6 B3 3B F9 2E
+         3x  F4 75 71 B7 40 72 98 64 53 82 A6 B3 3B F9 2E 76
+         3x  75 71 B7 40 72 98 64 53 82 A6 B3 3B F9 2E 76 06
+         2x  00 FF 00 FF FE FE FE FE FD FD FD FD 78 56 34 17
+         2x  C1 A1 DD 7F 0D F3 F8 55 F0 9B 86 CF 02 D6 27 DB
+         2x  A1 DD 7F 0D F3 F8 55 F0 9B 86 CF 02 D6 27 DB 97
+         2x  DD 7F 0D F3 F8 55 F0 9B 86 CF 02 D6 27 DB 97 2C
+         2x  7F 0D F3 F8 55 F0 9B 86 CF 02 D6 27 DB 97 2C 65
+         2x  0D F3 F8 55 F0 9B 86 CF 02 D6 27 DB 97 2C 65 82
+         2x  F3 F8 55 F0 9B 86 CF 02 D6 27 DB 97 2C 65 82 58
+         2x  CB 56 D8 77 98 EF E2 64 D3 76 ED E6 35 95 3C 97
+         2x  56 D8 77 98 EF E2 64 D3 76 ED E6 35 95 3C 97 BE
+         2x  D8 77 98 EF E2 64 D3 76 ED E6 35 95 3C 97 BE 24
+         2x  77 98 EF E2 64 D3 76 ED E6 35 95 3C 97 BE 24 25
+         2x  98 EF E2 64 D3 76 ED E6 35 95 3C 97 BE 24 25 E9
+         2x  EF E2 64 D3 76 ED E6 35 95 3C 97 BE 24 25 E9 4D
+         2x  A6 DD 4B C0 8B AF 45 A6 36 D9 30 90 5F 80 54 FB
+         2x  DD 4B C0 8B AF 45 A6 36 D9 30 90 5F 80 54 FB A6
+         2x  4B C0 8B AF 45 A6 36 D9 30 90 5F 80 54 FB A6 25
+         2x  0C FF F1 FC 0D 11 D7 54 42 09 1E D9 14 C0 DA 80
+         2x  FF F1 FC 0D 11 D7 54 42 09 1E D9 14 C0 DA 80 95
+         2x  F1 FC 0D 11 D7 54 42 09 1E D9 14 C0 DA 80 95 8B
+         2x  CC 9D A2 33 D0 82 5F D9 EE 91 B5 69 88 71 98 CA
+         2x  9D A2 33 D0 82 5F D9 EE 91 B5 69 88 71 98 CA 78
+         2x  A2 33 D0 82 5F D9 EE 91 B5 69 88 71 98 CA 78 76
+         2x  63 5A 8E 40 32 9C 40 69 AB CF CC F7 E6 DB BC FA
+         2x  A5 46 73 16 D4 12 F5 A5 34 08 65 18 20 41 9E 45
+         2x  46 73 16 D4 12 F5 A5 34 08 65 18 20 41 9E 45 E8
+         2x  73 16 D4 12 F5 A5 34 08 65 18 20 41 9E 45 E8 DE
+         2x  16 D4 12 F5 A5 34 08 65 18 20 41 9E 45 E8 DE C6
+         2x  D6 2A A6 75 AA 17 F9 87 B5 79 53 D4 D6 1B 8E F0
+         2x  2A A6 75 AA 17 F9 87 B5 79 53 D4 D6 1B 8E F0 CD
+         2x  A6 75 AA 17 F9 87 B5 79 53 D4 D6 1B 8E F0 CD 78
+         2x  75 AA 17 F9 87 B5 79 53 D4 D6 1B 8E F0 CD 78 42
+         2x  11 93 E9 3F 1E 5C A9 59 5C 13 28 A4 02 DA 5D 98
+         2x  93 E9 3F 1E 5C A9 59 5C 13 28 A4 02 DA 5D 98 7D
+         2x  E9 3F 1E 5C A9 59 5C 13 28 A4 02 DA 5D 98 7D 30
+         2x  3F 1E 5C A9 59 5C 13 28 A4 02 DA 5D 98 7D 30 CE
+         2x  1E 5C A9 59 5C 13 28 A4 02 DA 5D 98 7D 30 CE 96
+         2x  5C A9 59 5C 13 28 A4 02 DA 5D 98 7D 30 CE 96 75
+         2x  A9 59 5C 13 28 A4 02 DA 5D 98 7D 30 CE 96 75 47
+         2x  59 5C 13 28 A4 02 DA 5D 98 7D 30 CE 96 75 47 E5
+         2x  5C 13 28 A4 02 DA 5D 98 7D 30 CE 96 75 47 E5 ED
+         2x  13 28 A4 02 DA 5D 98 7D 30 CE 96 75 47 E5 ED 9E
+         2x  28 A4 02 DA 5D 98 7D 30 CE 96 75 47 E5 ED 9E BB
+         2x  A4 02 DA 5D 98 7D 30 CE 96 75 47 E5 ED 9E BB 14
+         2x  02 DA 5D 98 7D 30 CE 96 75 47 E5 ED 9E BB 14 95
+         2x  DA 5D 98 7D 30 CE 96 75 47 E5 ED 9E BB 14 95 F4
+         2x  5D 98 7D 30 CE 96 75 47 E5 ED 9E BB 14 95 F4 45
+         2x  98 7D 30 CE 96 75 47 E5 ED 9E BB 14 95 F4 45 15
+         2x  7D 30 CE 96 75 47 E5 ED 9E BB 14 95 F4 45 15 B5
+         2x  30 CE 96 75 47 E5 ED 9E BB 14 95 F4 45 15 B5 8B
+         2x  CE 96 75 47 E5 ED 9E BB 14 95 F4 45 15 B5 8B 1D
+         2x  96 75 47 E5 ED 9E BB 14 95 F4 45 15 B5 8B 1D 7F
+         2x  75 47 E5 ED 9E BB 14 95 F4 45 15 B5 8B 1D 7F 32
+         2x  47 E5 ED 9E BB 14 95 F4 45 15 B5 8B 1D 7F 32 5D
+         2x  E5 ED 9E BB 14 95 F4 45 15 B5 8B 1D 7F 32 5D D0
+         2x  ED 9E BB 14 95 F4 45 15 B5 8B 1D 7F 32 5D D0 1B
+         2x  9E BB 14 95 F4 45 15 B5 8B 1D 7F 32 5D D0 1B C9
+         2x  BB 14 95 F4 45 15 B5 8B 1D 7F 32 5D D0 1B C9 AD
+         2x  14 95 F4 45 15 B5 8B 1D 7F 32 5D D0 1B C9 AD B2
+         2x  95 F4 45 15 B5 8B 1D 7F 32 5D D0 1B C9 AD B2 A8
+         2x  F4 45 15 B5 8B 1D 7F 32 5D D0 1B C9 AD B2 A8 DC
+         2x  45 15 B5 8B 1D 7F 32 5D D0 1B C9 AD B2 A8 DC 9C
+         2x  15 B5 8B 1D 7F 32 5D D0 1B C9 AD B2 A8 DC 9C F1
+         2x  B5 8B 1D 7F 32 5D D0 1B C9 AD B2 A8 DC 9C F1 F1
+         2x  8B 1D 7F 32 5D D0 1B C9 AD B2 A8 DC 9C F1 F1 08
+         2x  1D 7F 32 5D D0 1B C9 AD B2 A8 DC 9C F1 F1 08 9C
+         2x  7F 32 5D D0 1B C9 AD B2 A8 DC 9C F1 F1 08 9C E6
+         2x  32 5D D0 1B C9 AD B2 A8 DC 9C F1 F1 08 9C E6 2D
+         2x  5D D0 1B C9 AD B2 A8 DC 9C F1 F1 08 9C E6 2D 05
