@@ -1,0 +1,810 @@
+
+====================================================================================================
+MTA PCAP DEEP ANALYZER
+====================================================================================================
+Arquivo                            : C:\dados\captura_20260903_162859.pcap
+Tamanho                            : 4.73 MiB
+SHA-256 PCAP                       : b93db52c450d4fb3669268f4ef23425895c3705a284f4507612720bf6bfd443b
+Gerado UTC                         : 2026-09-03T19:45:15.840014+00:00
+Servidor configurado               : não especificado
+Porta configurada                  : não especificada
+
+====================================================================================================
+ESTATÍSTICAS GERAIS
+====================================================================================================
+Pacotes                            : 10,739
+Bytes                              : 4.57 MiB
+Payload                            : 4.14 MiB
+Fluxos                             : 4
+Duração                            : 74.127508 segundos
+Pacotes por segundo                : 144.872
+Bytes por segundo                  : 63.12 KiB/s
+Primeiro pacote                    : 2026-09-03T19:29:04.668769+00:00
+Último pacote                      : 2026-09-03T19:30:18.796277+00:00
+
+====================================================================================================
+IP / TRANSPORTE
+====================================================================================================
+IPv4                               : 10,739
+IPv6                               : 0
+TCP                                : 21
+UDP                                : 10,718
+Outros                             : 0
+Pacotes com Raw payload            : 10,729
+
+====================================================================================================
+PROTOCOLOS
+====================================================================================================
+UDP                                 10,718    99.804%
+TCP                                     21     0.196%
+
+====================================================================================================
+DIREÇÃO
+====================================================================================================
+S2C                                  6,373    59.344%
+C2S                                  4,366    40.656%
+
+====================================================================================================
+ENDPOINTS MAIS ATIVOS
+====================================================================================================
+IP                                              PORTA     PROTO       PACOTES
+192.168.18.2                                    62714       UDP        10,716
+94.23.158.180                                   22003       UDP        10,716
+192.168.18.2                                    52887       TCP            16
+94.23.158.180                                      80       TCP            16
+192.168.18.2                                    52882       TCP             5
+94.23.158.180                                     443       TCP             5
+192.168.18.2                                    62715       UDP             2
+94.23.158.180                                   22126       UDP             2
+
+====================================================================================================
+FLUXOS
+====================================================================================================
+   ID ORIGEM                           DESTINO                          PROTO          PKT        BYTES      PAYLOAD       DUR(s)
+    2 192.168.18.2:62714               94.23.158.180:22003              UDP         10,716    4,777,059    4,326,381       68.372
+    4 192.168.18.2:52887               94.23.158.180:80                 TCP             16       11,834       10,950       53.058
+    1 192.168.18.2:62715               94.23.158.180:22126              UDP              2        1,421        1,337        0.210
+    3 192.168.18.2:52882               94.23.158.180:443                TCP              5          729          433        0.429
+
+====================================================================================================
+DETALHAMENTO DOS FLUXOS
+====================================================================================================
+
+FLOW 2
+Endpoint A                         : 192.168.18.2:62714
+Endpoint B                         : 94.23.158.180:22003
+Protocolo                          : UDP
+Pacotes                            : 10,716
+Bytes                              : 4.56 MiB
+Payload                            : 4.13 MiB
+Duração                            : 68.372020s
+C2S pacotes                        : 4,355
+C2S bytes                          : 290,785
+C2S payload                        : 107,875
+S2C pacotes                        : 6,361
+S2C bytes                          : 4,486,274
+S2C payload                        : 4,218,506
+Pacote médio                       : 445.788
+Pacote P50                         : 86.000
+Pacote P95                         : 1210.000
+Intervalo médio                    : 6.381 ms
+Intervalo P50                      : 0.974 ms
+Intervalo P95                      : 31.077 ms
+Entropia C2S                       : 7.998282
+Entropia S2C                       : 7.999960
+SHA256 C2S                         : ac69e5434f89960107e1264824db252df229f68737da47121f81bc9a8436731e
+SHA256 S2C                         : febf4b08266cc25fbac58a41c0c0beb9750c4bd5ff4f838c15eeee78bee78ff9
+
+FLOW 4
+Endpoint A                         : 192.168.18.2:52887
+Endpoint B                         : 94.23.158.180:80
+Protocolo                          : TCP
+Pacotes                            : 16
+Bytes                              : 11.56 KiB
+Payload                            : 10.69 KiB
+Duração                            : 53.057509s
+C2S pacotes                        : 7
+C2S bytes                          : 729
+C2S payload                        : 339
+S2C pacotes                        : 9
+S2C bytes                          : 11,105
+S2C payload                        : 10,611
+Pacote médio                       : 739.625
+Pacote P50                         : 646.000
+Pacote P95                         : 1454.000
+Intervalo médio                    : 3537.167 ms
+Intervalo P50                      : 0.148 ms
+Intervalo P95                      : 19503.168 ms
+Entropia C2S                       : 5.105664
+Entropia S2C                       : 7.939531
+SHA256 C2S                         : 981125fb7f2bf4f517e12eecd6173ff98548257890329c3b6284c334db97a0af
+SHA256 S2C                         : b53c4e19b67dcf30ad60a7c5b1ec21aec86e18e1f94a5c0883daf8ec0fa95814
+
+FLOW 1
+Endpoint A                         : 192.168.18.2:62715
+Endpoint B                         : 94.23.158.180:22126
+Protocolo                          : UDP
+Pacotes                            : 2
+Bytes                              : 1.39 KiB
+Payload                            : 1.31 KiB
+Duração                            : 0.209626s
+C2S pacotes                        : 1
+C2S bytes                          : 43
+C2S payload                        : 1
+S2C pacotes                        : 1
+S2C bytes                          : 1,378
+S2C payload                        : 1,336
+Pacote médio                       : 710.500
+Pacote P50                         : 710.500
+Pacote P95                         : 1311.250
+Intervalo médio                    : 209.626 ms
+Intervalo P50                      : 209.626 ms
+Intervalo P95                      : 209.626 ms
+Entropia C2S                       : 0.000000
+Entropia S2C                       : 6.062750
+SHA256 C2S                         : 454349e422f05297191ead13e21d3db520e5abef52055e4964b82fb213f593a1
+SHA256 S2C                         : bb4578380118f1f943957ed4b8929c3decf160aa1e7a0006756ab876a033729a
+
+FLOW 3
+Endpoint A                         : 192.168.18.2:52882
+Endpoint B                         : 94.23.158.180:443
+Protocolo                          : TCP
+Pacotes                            : 5
+Bytes                              : 729.00 B
+Payload                            : 433.00 B
+Duração                            : 0.428525s
+C2S pacotes                        : 3
+C2S bytes                          : 607
+C2S payload                        : 433
+S2C pacotes                        : 2
+S2C bytes                          : 122
+S2C payload                        : 0
+Pacote médio                       : 145.800
+Pacote P50                         : 62.000
+Pacote P95                         : 402.800
+Intervalo médio                    : 107.131 ms
+Intervalo P50                      : 108.858 ms
+Intervalo P95                      : 210.087 ms
+Entropia C2S                       : 6.836201
+Entropia S2C                       : n/a
+SHA256 C2S                         : b1419f3064be746ba79bfe5e5c85ea1e24c1a3a30c5f8c93166c2ca8a1122265
+
+====================================================================================================
+TAMANHOS DE PAYLOAD MAIS FREQUENTES
+====================================================================================================
+      17 bytes :        2,448
+    1168 bytes :        2,143
+      21 bytes :        1,673
+    1167 bytes :          478
+      29 bytes :          456
+    1165 bytes :          357
+    1166 bytes :          290
+      49 bytes :          261
+      51 bytes :          236
+      52 bytes :          169
+      50 bytes :          163
+      44 bytes :          148
+      32 bytes :          106
+      27 bytes :          105
+      40 bytes :           81
+      31 bytes :           75
+      26 bytes :           60
+      46 bytes :           55
+      30 bytes :           49
+      25 bytes :           48
+      34 bytes :           45
+      63 bytes :           37
+      47 bytes :           34
+      57 bytes :           32
+      42 bytes :           32
+      62 bytes :           31
+      16 bytes :           30
+      45 bytes :           29
+      66 bytes :           27
+     227 bytes :           24
+      55 bytes :           23
+      33 bytes :           23
+     207 bytes :           22
+     354 bytes :           22
+     325 bytes :           20
+     334 bytes :           20
+      68 bytes :           19
+      67 bytes :           19
+      28 bytes :           18
+     236 bytes :           18
+      59 bytes :           17
+      41 bytes :           17
+      89 bytes :           16
+      70 bytes :           16
+      56 bytes :           16
+      69 bytes :           15
+      39 bytes :           14
+      20 bytes :           12
+      58 bytes :           12
+     256 bytes :           12
+      79 bytes :           11
+      80 bytes :           11
+      81 bytes :           11
+     305 bytes :           11
+      64 bytes :           11
+       0 bytes :           10
+      65 bytes :           10
+      48 bytes :            9
+      38 bytes :            8
+    1151 bytes :            8
+    1121 bytes :            7
+      37 bytes :            7
+     138 bytes :            7
+      73 bytes :            7
+      90 bytes :            7
+      87 bytes :            6
+      53 bytes :            6
+     116 bytes :            6
+    1139 bytes :            6
+      85 bytes :            6
+    1138 bytes :            6
+      61 bytes :            6
+      71 bytes :            6
+    1400 bytes :            6
+      60 bytes :            6
+      74 bytes :            6
+     178 bytes :            5
+      78 bytes :            5
+      99 bytes :            5
+      82 bytes :            5
+      43 bytes :            5
+      86 bytes :            5
+      95 bytes :            5
+     158 bytes :            5
+      72 bytes :            4
+      94 bytes :            4
+    1145 bytes :            4
+    1154 bytes :            4
+    1129 bytes :            4
+     107 bytes :            4
+     100 bytes :            4
+     111 bytes :            4
+      98 bytes :            4
+     187 bytes :            4
+    1111 bytes :            3
+     259 bytes :            3
+    1127 bytes :            3
+    1133 bytes :            3
+    1057 bytes :            3
+    1102 bytes :            3
+    1068 bytes :            3
+    1162 bytes :            3
+    1120 bytes :            3
+    1123 bytes :            3
+    1096 bytes :            3
+     117 bytes :            3
+     296 bytes :            3
+      83 bytes :            3
+    1069 bytes :            3
+     102 bytes :            3
+      35 bytes :            3
+     122 bytes :            3
+     172 bytes :            3
+      75 bytes :            3
+    1160 bytes :            3
+     161 bytes :            3
+    1128 bytes :            3
+      84 bytes :            3
+     203 bytes :            3
+     109 bytes :            3
+     129 bytes :            3
+      91 bytes :            3
+      92 bytes :            3
+     209 bytes :            3
+     155 bytes :            2
+    1159 bytes :            2
+     181 bytes :            2
+     110 bytes :            2
+    1155 bytes :            2
+    1106 bytes :            2
+    1095 bytes :            2
+     949 bytes :            2
+    1103 bytes :            2
+    1141 bytes :            2
+    1067 bytes :            2
+     893 bytes :            2
+    1024 bytes :            2
+    1064 bytes :            2
+     446 bytes :            2
+     315 bytes :            2
+      54 bytes :            2
+      96 bytes :            2
+     137 bytes :            2
+    1134 bytes :            2
+    1101 bytes :            2
+     160 bytes :            2
+    1083 bytes :            2
+     123 bytes :            2
+     128 bytes :            2
+      77 bytes :            2
+
+====================================================================================================
+PREFIXOS MAIS FREQUENTES
+====================================================================================================
+
+--- PREFIXOS DE 1 BYTE(S) ---
+        64x 95
+        59x AA
+        59x 86
+        57x F2
+        57x 79
+        56x 34
+        56x 4B
+        55x C7
+        54x E4
+        54x 40
+        54x 67
+        54x 91
+        53x 55
+        53x A1
+        53x 21
+        52x 78
+        52x FC
+        52x 3E
+        52x 2D
+        52x 70
+        52x C4
+        52x 1B
+        52x 8C
+        52x E7
+        51x 9F
+        51x 5A
+        51x 9A
+        51x 5E
+        50x CB
+        50x A3
+
+--- PREFIXOS DE 2 BYTE(S) ---
+         3x 80 4D
+         3x 38 6F
+         3x 22 3F
+         3x 5E DA
+         3x E3 3A
+         3x 86 2E
+         3x F9 8C
+         3x 3D FB
+         3x FC 89
+         3x 5E A2
+         3x DD AA
+         3x C0 CB
+         3x 59 95
+         3x CA CE
+         3x FB 77
+         3x 4E B6
+         3x 0A EA
+         3x 47 77
+         3x F6 C8
+         3x F3 9A
+         3x AA FE
+         3x 44 62
+         3x AE 9F
+         3x 34 98
+         3x EB D8
+         3x 67 71
+         3x 79 23
+         3x 06 AE
+         3x 4E AE
+         3x 2B FD
+
+--- PREFIXOS DE 3 BYTE(S) ---
+         2x C1 A1 DD
+         2x CB 56 D8
+         2x 8F AF 3C
+         2x 5C 8D 64
+         2x 47 45 54
+         2x 48 54 54
+         2x 2B FD 37
+         1x 09 04 D1
+         1x 45 59 45
+         1x 0A 00 FF
+         1x 60 59 29
+         1x 09 A9 23
+         1x 16 03 01
+         1x 78 A2 20
+         1x F2 CA 3A
+         1x A0 EC BE
+         1x 80 4D 95
+         1x CE 19 84
+         1x 47 E3 E1
+         1x D4 5F 6C
+         1x 8D E2 AE
+         1x FC 86 42
+         1x 98 7A D3
+         1x 9F 6B D6
+         1x 5C EB AE
+         1x BB B5 DD
+         1x B5 4B 92
+         1x DE C2 52
+         1x 08 C9 A9
+         1x 5D 55 90
+
+--- PREFIXOS DE 4 BYTE(S) ---
+         2x C1 A1 DD 7F
+         2x CB 56 D8 77
+         2x 47 45 54 20
+         2x 48 54 54 50
+         1x 09 04 D1 99
+         1x 45 59 45 32
+         1x 0A 00 FF 00
+         1x 60 59 29 9C
+         1x 09 A9 23 AC
+         1x 16 03 01 01
+         1x 78 A2 20 F0
+         1x F2 CA 3A 25
+         1x A0 EC BE B3
+         1x 80 4D 95 FC
+         1x CE 19 84 3F
+         1x 47 E3 E1 34
+         1x D4 5F 6C 5D
+         1x 8D E2 AE B0
+         1x FC 86 42 8C
+         1x 98 7A D3 3D
+         1x 9F 6B D6 4B
+         1x 5C EB AE 5D
+         1x BB B5 DD 93
+         1x B5 4B 92 98
+         1x DE C2 52 8E
+         1x 08 C9 A9 99
+         1x 5D 55 90 82
+         1x 4C EF 2D 6D
+         1x 75 9D 49 B2
+         1x 4C CE F1 EB
+
+--- PREFIXOS DE 6 BYTE(S) ---
+         2x C1 A1 DD 7F 0D F3
+         2x CB 56 D8 77 98 EF
+         2x 48 54 54 50 2F 31
+         1x 09 04 D1 99 38 07
+         1x 45 59 45 32 04 6D
+         1x 0A 00 FF 00 FF FE
+         1x 60 59 29 9C E5 24
+         1x 09 A9 23 AC D6 E6
+         1x 16 03 01 01 AC 01
+         1x 78 A2 20 F0 A6 53
+         1x F2 CA 3A 25 C5 F5
+         1x A0 EC BE B3 38 DC
+         1x 80 4D 95 FC 44 C6
+         1x CE 19 84 3F 5C 6A
+         1x 47 E3 E1 34 3A 76
+         1x D4 5F 6C 5D 13 4B
+         1x 8D E2 AE B0 EB 59
+         1x FC 86 42 8C 49 FA
+         1x 98 7A D3 3D D5 5D
+         1x 9F 6B D6 4B D3 35
+         1x 5C EB AE 5D A3 19
+         1x BB B5 DD 93 7D 0C
+         1x B5 4B 92 98 3E 97
+         1x DE C2 52 8E B9 03
+         1x 08 C9 A9 99 DD 26
+         1x 5D 55 90 82 BD E3
+         1x 4C EF 2D 6D 61 B3
+         1x 75 9D 49 B2 20 02
+         1x 4C CE F1 EB 2D 50
+         1x 56 75 FE D3 41 F2
+
+--- PREFIXOS DE 8 BYTE(S) ---
+         2x C1 A1 DD 7F 0D F3 F8 55
+         2x CB 56 D8 77 98 EF E2 64
+         2x 48 54 54 50 2F 31 2E 31
+         1x 09 04 D1 99 38 07 78 07
+         1x 45 59 45 32 04 6D 74 61
+         1x 0A 00 FF 00 FF FE FE FE
+         1x 60 59 29 9C E5 24 4E D0
+         1x 09 A9 23 AC D6 E6 B8 95
+         1x 16 03 01 01 AC 01 00 01
+         1x 78 A2 20 F0 A6 53 17 A1
+         1x F2 CA 3A 25 C5 F5 25 AD
+         1x A0 EC BE B3 38 DC E1 60
+         1x 80 4D 95 FC 44 C6 E1 0D
+         1x CE 19 84 3F 5C 6A 96 CC
+         1x 47 E3 E1 34 3A 76 D3 71
+         1x D4 5F 6C 5D 13 4B 53 58
+         1x 8D E2 AE B0 EB 59 B7 59
+         1x FC 86 42 8C 49 FA 7C E6
+         1x 98 7A D3 3D D5 5D 86 B0
+         1x 9F 6B D6 4B D3 35 94 96
+         1x 5C EB AE 5D A3 19 77 59
+         1x BB B5 DD 93 7D 0C 78 AA
+         1x B5 4B 92 98 3E 97 EC 02
+         1x DE C2 52 8E B9 03 69 F3
+         1x 08 C9 A9 99 DD 26 80 C3
+         1x 5D 55 90 82 BD E3 4E F9
+         1x 4C EF 2D 6D 61 B3 74 D7
+         1x 75 9D 49 B2 20 02 66 88
+         1x 4C CE F1 EB 2D 50 CF 5C
+         1x 56 75 FE D3 41 F2 B6 8B
+
+--- PREFIXOS DE 12 BYTE(S) ---
+         2x C1 A1 DD 7F 0D F3 F8 55 F0 9B 86 CF
+         2x CB 56 D8 77 98 EF E2 64 D3 76 ED E6
+         2x 48 54 54 50 2F 31 2E 31 20 32 30 30
+         1x 09 04 D1 99 38 07 78 07 15 9E D3 EC
+         1x 45 59 45 32 04 6D 74 61 06 32 32 30
+         1x 0A 00 FF 00 FF FE FE FE FE FD FD FD
+         1x 60 59 29 9C E5 24 4E D0 0D AE AD 88
+         1x 09 A9 23 AC D6 E6 B8 95 04 35 44 B6
+         1x 16 03 01 01 AC 01 00 01 A8 03 03 B3
+         1x 78 A2 20 F0 A6 53 17 A1 1C A7 8D 19
+         1x F2 CA 3A 25 C5 F5 25 AD 8A 7A B5 51
+         1x A0 EC BE B3 38 DC E1 60 27 52 8B 3B
+         1x 80 4D 95 FC 44 C6 E1 0D B8 05 82 BE
+         1x CE 19 84 3F 5C 6A 96 CC 03 E0 08 42
+         1x 47 E3 E1 34 3A 76 D3 71 DC ED A2 98
+         1x D4 5F 6C 5D 13 4B 53 58 B5 21 33 FD
+         1x 8D E2 AE B0 EB 59 B7 59 35 BC 66 F4
+         1x FC 86 42 8C 49 FA 7C E6 15 EB 40 2D
+         1x 98 7A D3 3D D5 5D 86 B0 01 B9 5B ED
+         1x 9F 6B D6 4B D3 35 94 96 FB 26 9D AB
+         1x 5C EB AE 5D A3 19 77 59 35 BC 66 97
+         1x BB B5 DD 93 7D 0C 78 AA 0E 65 78 52
+         1x B5 4B 92 98 3E 97 EC 02 F7 EA EF B1
+         1x DE C2 52 8E B9 03 69 F3 70 3D B0 9B
+         1x 08 C9 A9 99 DD 26 80 C3 28 BB 4A 82
+         1x 5D 55 90 82 BD E3 4E F9 A6 A0 49 42
+         1x 4C EF 2D 6D 61 B3 74 D7 F2 F1 7F 93
+         1x 75 9D 49 B2 20 02 66 88 BE 6B 1D C0
+         1x 4C CE F1 EB 2D 50 CF 5C 20 EC 67 E0
+         1x 56 75 FE D3 41 F2 B6 8B D8 27 91 D5
+
+--- PREFIXOS DE 16 BYTE(S) ---
+         2x C1 A1 DD 7F 0D F3 F8 55 F0 9B 86 CF 02 D6 27 DB
+         2x CB 56 D8 77 98 EF E2 64 D3 76 ED E6 35 95 3C 97
+         2x 48 54 54 50 2F 31 2E 31 20 32 30 30 20 4F 4B 0D
+         1x 09 04 D1 99 38 07 78 07 15 9E D3 EC 75 51 3A C9
+         1x 45 59 45 32 04 6D 74 61 06 32 32 30 30 33 47 43
+         1x 0A 00 FF 00 FF FE FE FE FE FD FD FD FD 78 56 34
+         1x 60 59 29 9C E5 24 4E D0 0D AE AD 88 F5 76 EB A2
+         1x 09 A9 23 AC D6 E6 B8 95 04 35 44 B6 6C F1 0F B7
+         1x 16 03 01 01 AC 01 00 01 A8 03 03 B3 71 28 32 51
+         1x 78 A2 20 F0 A6 53 17 A1 1C A7 8D 19 A0 D5 91 7E
+         1x F2 CA 3A 25 C5 F5 25 AD 8A 7A B5 51 D1 C6 92 7E
+         1x A0 EC BE B3 38 DC E1 60 27 52 8B 3B 48 E1 B9 77
+         1x 80 4D 95 FC 44 C6 E1 0D B8 05 82 BE 59 41 F1 0B
+         1x CE 19 84 3F 5C 6A 96 CC 03 E0 08 42 CA B5 37 B8
+         1x 47 E3 E1 34 3A 76 D3 71 DC ED A2 98 EF E6 D7 51
+         1x D4 5F 6C 5D 13 4B 53 58 B5 21 33 FD 01 3C FA D0
+         1x 8D E2 AE B0 EB 59 B7 59 35 BC 66 F4 22 57 5F DA
+         1x FC 86 42 8C 49 FA 7C E6 15 EB 40 2D 9F 1A F7 DE
+         1x 98 7A D3 3D D5 5D 86 B0 01 B9 5B ED 3E 8F D8 A2
+         1x 9F 6B D6 4B D3 35 94 96 FB 26 9D AB B8 50 05 8B
+         1x 5C EB AE 5D A3 19 77 59 35 BC 66 97 23 57 5F C8
+         1x BB B5 DD 93 7D 0C 78 AA 0E 65 78 52 FC 2B DA 26
+         1x B5 4B 92 98 3E 97 EC 02 F7 EA EF B1 E4 E3 17 89
+         1x DE C2 52 8E B9 03 69 F3 70 3D B0 9B FC B9 31 BE
+         1x 08 C9 A9 99 DD 26 80 C3 28 BB 4A 82 00 43 6E 63
+         1x 5D 55 90 82 BD E3 4E F9 A6 A0 49 42 96 EA 75 6E
+         1x 4C EF 2D 6D 61 B3 74 D7 F2 F1 7F 93 C9 DF E3 28
+         1x 75 9D 49 B2 20 02 66 88 BE 6B 1D C0 C8 47 D3 40
+         1x 4C CE F1 EB 2D 50 CF 5C 20 EC 67 E0 1E 54 20 1A
+         1x 56 75 FE D3 41 F2 B6 8B D8 27 91 D5 2A 73 9B 0C
+
+====================================================================================================
+STRINGS ASCII
+====================================================================================================
+      29x  2JW{
+      21x  "ycV
+      19x  [<d?
+      12x  #t<*
+      11x  rkiJ
+      10x  Z@;*
+       8x  3~w@
+       8x  L_FY
+       8x  6ycV
+       8x  .&N[?
+       7x  ^v1v
+       7x  5I0D0
+       7x  &e!s
+       6x  e:Zu
+       6x  =,DRw
+       6x  MO!v
+       6x  8DRw
+       6x  e*r:
+       5x  =x@q
+       5x  Bga?
+       5x  QP`c
+       5x  X8nC
+       5x  9)c6
+       5x  duB\0
+       5x  >6ycV
+       5x  $2)P
+       5x  [<d?N
+       5x   DRw
+       5x  h|LH
+       5x  HZ@;*
+       4x  yz.0
+       4x  7mHH
+       4x  ;T>N
+       4x  JEX 
+       4x  i[tw
+       4x  ?[Nq
+       4x  Al+e
+       4x  W"ycV
+       4x  K=Od
+       4x  <f0Y
+       4x  sd6\
+       4x  r8SL
+       4x  ,DRw
+       4x  9z.0
+       4x  Fq]C
+       4x  ;]FN
+       4x  Lvm"
+       4x  :\d6
+       4x  ?{'@
+       4x  d[!v
+       4x  ._J`Uy7
+       4x  bycV
+       3x  Zjw@
+       3x  aMzj
+       3x  XIUQb
+       3x  `g^Y
+       3x  wHKZ
+       3x  n|L!
+       3x  qd.Y
+       3x  1z@n
+       3x  dhMF
+       3x  NS,)
+       3x  \]kNk
+       3x  @[ZX
+       3x  $]=<iZ
+       3x  i8#U
+       3x  },DRw
+       3x  R}<O
+       3x  |;c&+
+       3x  bMqr
+       3x  "/zR
+       3x  '%Hz
+       3x  .xh.o
+       3x  L]5n
+       3x  `oG>
+       3x  an,v
+       3x  ;%Hz
+       3x  1V\q
+       3x  T8DRw
+       3x  nUra
+       3x  1d.y
+       3x  yI"$pl
+       3x  I{G>
+       3x  X7Y5
+       3x  EG/V
+       3x  H8LsX
+       3x  OYRK
+       3x  J>x?z
+       3x  e&yG
+       3x  J5ot
+       3x  K|Ff
+       3x  380N
+       3x  X~uL
+       2x  T39LI
+       2x  n3=/
+       2x  5LK*~
+       2x  CR2X
+       2x  3d1M
+       2x  w6=}
+       2x  J?y7
+       2x  (e#%
+       2x  D|<W
+       2x  *3#:
+       2x  m4w^
+       2x  bH%ga
+       2x  s%e'
+       2x  e,]2
+       2x  oe]C
+       2x  hT4j.*
+       2x  1dc]o
+       2x  A?"I
+       2x  2HZ,
+       2x  T3]N
+       2x  uVBj%
+       2x  pLNg
+       2x  lMY4
+       2x  a|D 
+       2x  P`pa
+       2x  VatD'H
+       2x   jDA
+       2x  +*xx
+       2x  rYrCv
+       2x  4{1{
+       2x  LkBq
+       2x  qSO$B
+       2x  7$:_
+       2x  .3(K
+       2x  e6M_
+       2x  Lc*c
+       2x  0p;|
+       2x  97/e
+       2x  \6`Y
+       2x  ,A<2
+       2x  qd6\
+       2x  \aG'
+       2x  JqQD
+       2x  L~]+
+       2x  *(qD
+       2x  &{_2
+       2x  FYwb
+       2x  a8]9
+       2x  zjs-
+       2x   "}y
+       2x  29_c
+       2x  )Ukb
+       2x  v]eDH
+       2x  3/Bf
+       2x  |H4n
+       2x  tOA%
+       2x  ozN0
+       2x  lhQs
+       2x  5BK%Z
+       2x  2_%^?
+       2x  U#>w
+       2x  u^or
+       2x  L/ol
+       2x  \?wO
+       2x  d'Kf
+       2x  @Ty>
+       2x  .xZu
+       2x  FJBg
+       2x  Glf{
+       2x  0DNN
+       2x  9poS
+       2x  330y
+       2x  "|r9
+       2x  lZo2
+       2x  E35_
+       2x  ?p];
+       2x  BR`Wp
+       2x  `vl=
+       2x  _x{M
+       2x  >(N(
+       2x  O7"L
+       2x  &l18
+       2x  me:;
+       2x  Q+73
+       2x  /,I>
+       2x  q!_t
+       2x  G(\*
+       2x  MFs)
+       2x  !:fx
+       2x  %i&V
+       2x  L!]$
+       2x  8V|>
+       2x  ZWZo
+       2x  !%Ht
+       2x  #!|x
+       2x  9z?a
+       2x  >M/U
+       2x  '"<R
+       2x  !gv|
+       2x  _B\]kNk
+       2x  h!47}
+       2x  p/z&
+       2x  I9O=
+       2x  w/fn
+       2x  jS$b
+       2x  FJBd
+       2x  RkjG
+
+====================================================================================================
+INTERPRETAÇÃO PRELIMINAR
+====================================================================================================
+Este relatório é estatístico.
+
+Nenhum byte é automaticamente classificado como opcode.
+
+A presença de padrões repetidos pode indicar cabeçalhos, IDs, flags, tipos ou estruturas, mas isso precisa ser confirmado por capturas diferenciais.
+
+Entropia alta pode indicar compressão, criptografia ou simplesmente dados binários com distribuição relativamente uniforme.
+
+Payloads UDP devem ser analisados respeitando as fronteiras dos datagramas.
+
+Para TCP, a fronteira dos pacotes capturados não necessariamente corresponde à fronteira das mensagens da aplicação.
+
+O próximo passo recomendado é correlacionar ações específicas no cliente com alterações específicas nos pacotes.
+
+Exemplo:
+  CAPTURA A = conectar + ficar parado
+  CAPTURA B = conectar + executar ação X
+  diferença A/B = candidatos relacionados a X
