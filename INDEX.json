@@ -1,0 +1,37 @@
+{
+  "source_file": "mathematical_relationship.json",
+  "total_records": 82832,
+  "max_part_size_mb": 8,
+  "parts": 4,
+  "files": [
+    {
+      "part": 1,
+      "file": "mathematical_relationship_part_001.json",
+      "records": 25815,
+      "size_bytes": 8388554,
+      "size_mb": 8.0
+    },
+    {
+      "part": 2,
+      "file": "mathematical_relationship_part_002.json",
+      "records": 25724,
+      "size_bytes": 8388300,
+      "size_mb": 8.0
+    },
+    {
+      "part": 3,
+      "file": "mathematical_relationship_part_003.json",
+      "records": 25722,
+      "size_bytes": 8388335,
+      "size_mb": 8.0
+    },
+    {
+      "part": 4,
+      "file": "mathematical_relationship_part_004.json",
+      "records": 5571,
+      "size_bytes": 1817480,
+      "size_mb": 1.733
+    }
+  ],
+  "usage": "Each part is an independent valid JSON array. Combine all parts in numerical order to reconstruct the original record sequence."
+}
