@@ -1,0 +1,424 @@
+================================================================================
+MTA:SA DOWNLOAD ANALYSIS
+================================================================================
+
+PCAP: captura_20260903_162859.pcap
+Servidor: 94.23.158.180
+Fluxos: 4
+Candidatos: 2
+
+--------------------------------------------------------------------------------
+CANDIDATOS POR VOLUME S2C
+--------------------------------------------------------------------------------
+
+[0001] UDP
+      S2C: 4.02 MB em 6361 pacotes
+      C2S: 105.35 KB em 4355 pacotes
+      Duração: 68.372s
+      Entropia: 7.999960
+      ASCII: 0.382883
+      SHA256: febf4b08266cc25fbac58a41c0c0beb9750c4bd5ff4f838c15eeee78bee78ff9
+      HEX inicial: 0A 00 FF 00 FF FE FE FE FE FD FD FD FD 78 56 34 17 F8 25 65 01 AF AA B2 CD 62 E6 11 92 E3 80 C5 04 ED 80 01 01 6E 32 49 55 4A 4D 4B 44 55 52 59 4C 4C 51 57 41 4F 42 46 4C 56 44 54 4C 54 42 41
+      ASCII inicial: .............xV4..%e.....b...........n2IUJMKDURYLLQWAOBFLVDTLTBA
+      ASSINATURAS ENCONTRADAS:
+          offset=1992 type=GZIP magic=1F 8B
+          offset=6981 type=ZLIB magic=78 9C
+          offset=38608 type=GZIP magic=1F 8B
+          offset=50186 type=GZIP magic=1F 8B
+          offset=71934 type=GZIP magic=1F 8B
+          offset=77008 type=ZLIB magic=78 5E
+          offset=95218 type=ZLIB magic=78 9C
+          offset=101043 type=ZLIB magic=78 9C
+          offset=134404 type=ZLIB magic=78 9C
+          offset=149483 type=ZLIB magic=78 DA
+          offset=151370 type=ZLIB magic=78 01
+          offset=152082 type=ZLIB magic=78 DA
+          offset=169130 type=ZLIB magic=78 01
+          offset=174854 type=ZLIB magic=78 01
+          offset=197887 type=ZLIB magic=78 5E
+          offset=209854 type=ZLIB magic=78 01
+          offset=232065 type=ZLIB magic=78 01
+          offset=244082 type=ZLIB magic=78 5E
+          offset=244678 type=ZLIB magic=78 DA
+          offset=245549 type=GZIP magic=1F 8B
+          offset=248137 type=ZLIB magic=78 9C
+          offset=249284 type=GZIP magic=1F 8B
+          offset=251076 type=ZLIB magic=78 9C
+          offset=272789 type=ZLIB magic=78 DA
+          offset=281197 type=ZLIB magic=78 9C
+          offset=294363 type=ZLIB magic=78 DA
+          offset=294875 type=ZLIB magic=78 DA
+          offset=295287 type=ZLIB magic=78 9C
+          offset=349286 type=ZLIB magic=78 5E
+          offset=367367 type=ZLIB magic=78 01
+          offset=375730 type=GZIP magic=1F 8B
+          offset=400027 type=ZLIB magic=78 01
+          offset=400393 type=ZLIB magic=78 01
+          offset=402376 type=GZIP magic=1F 8B
+          offset=421869 type=GZIP magic=1F 8B
+          offset=421960 type=ZLIB magic=78 01
+          offset=451743 type=GZIP magic=1F 8B
+          offset=496994 type=ZLIB magic=78 DA
+          offset=508049 type=ZLIB magic=78 5E
+          offset=524847 type=ZLIB magic=78 9C
+          offset=532651 type=ZLIB magic=78 DA
+          offset=539814 type=ZLIB magic=78 5E
+          offset=551059 type=ZLIB magic=78 01
+          offset=557266 type=ZLIB magic=78 9C
+          offset=565887 type=ZLIB magic=78 01
+          offset=572406 type=ZLIB magic=78 9C
+          offset=573864 type=ZLIB magic=78 9C
+          offset=599184 type=GZIP magic=1F 8B
+          offset=612314 type=ZLIB magic=78 DA
+          offset=614224 type=ZLIB magic=78 DA
+          offset=614599 type=ZLIB magic=78 5E
+          offset=618519 type=ZLIB magic=78 DA
+          offset=627553 type=GZIP magic=1F 8B
+          offset=634769 type=GZIP magic=1F 8B
+          offset=715818 type=GZIP magic=1F 8B
+          offset=746943 type=ZLIB magic=78 01
+          offset=748378 type=ZLIB magic=78 DA
+          offset=751384 type=ZLIB magic=78 5E
+          offset=761660 type=ZLIB magic=78 DA
+          offset=767743 type=ZLIB magic=78 5E
+          offset=773173 type=ZLIB magic=78 9C
+          offset=789751 type=GZIP magic=1F 8B
+          offset=791252 type=GZIP magic=1F 8B
+          offset=791394 type=ZLIB magic=78 01
+          offset=791466 type=ZLIB magic=78 9C
+          offset=793469 type=ZLIB magic=78 9C
+          offset=796721 type=ZLIB magic=78 9C
+          offset=821730 type=ZLIB magic=78 5E
+          offset=845640 type=GZIP magic=1F 8B
+          offset=846505 type=ZLIB magic=78 01
+          offset=863217 type=ZLIB magic=78 9C
+          offset=895922 type=ZLIB magic=78 DA
+          offset=905760 type=GZIP magic=1F 8B
+          offset=905912 type=ZLIB magic=78 DA
+          offset=917206 type=ZLIB magic=78 DA
+          offset=929824 type=ZLIB magic=78 01
+          offset=948193 type=ZLIB magic=78 01
+          offset=954963 type=ZLIB magic=78 5E
+          offset=972049 type=GZIP magic=1F 8B
+          offset=1006107 type=ZLIB magic=78 5E
+          offset=1007311 type=GZIP magic=1F 8B
+          offset=1020760 type=GZIP magic=1F 8B
+          offset=1038841 type=ZLIB magic=78 DA
+          offset=1056563 type=ZLIB magic=78 01
+          offset=1057459 type=GZIP magic=1F 8B
+          offset=1059782 type=ZLIB magic=78 9C
+          offset=1084038 type=ZLIB magic=78 9C
+          offset=1087088 type=GZIP magic=1F 8B
+          offset=1092253 type=ZLIB magic=78 5E
+          offset=1145143 type=GZIP magic=1F 8B
+          offset=1170862 type=ZLIB magic=78 01
+          offset=1171484 type=ZLIB magic=78 01
+          offset=1175382 type=GZIP magic=1F 8B
+          offset=1176822 type=ZLIB magic=78 01
+          offset=1201257 type=ZLIB magic=78 5E
+          offset=1224739 type=ZLIB magic=78 01
+          offset=1242403 type=ZLIB magic=78 DA
+          offset=1250805 type=ZLIB magic=78 01
+          offset=1262949 type=ZLIB magic=78 01
+          offset=1289506 type=ZLIB magic=78 9C
+          offset=1319599 type=ZLIB magic=78 9C
+          offset=1322351 type=GZIP magic=1F 8B
+          offset=1347551 type=ZLIB magic=78 DA
+          offset=1354043 type=GZIP magic=1F 8B
+          offset=1356668 type=ZLIB magic=78 01
+          offset=1399314 type=GZIP magic=1F 8B
+          offset=1431160 type=ZLIB magic=78 DA
+          offset=1445284 type=ZLIB magic=78 5E
+          offset=1447506 type=ZLIB magic=78 DA
+          offset=1449273 type=GZIP magic=1F 8B
+          offset=1452755 type=GZIP magic=1F 8B
+          offset=1494405 type=ZLIB magic=78 01
+          offset=1504072 type=ZLIB magic=78 9C
+          offset=1518397 type=ZLIB magic=78 01
+          offset=1541405 type=ZLIB magic=78 9C
+          offset=1597466 type=GZIP magic=1F 8B
+          offset=1626941 type=ZLIB magic=78 DA
+          offset=1645997 type=GZIP magic=1F 8B
+          offset=1646509 type=GZIP magic=1F 8B
+          offset=1647021 type=GZIP magic=1F 8B
+          offset=1657620 type=GZIP magic=1F 8B
+          offset=1659394 type=ZLIB magic=78 5E
+          offset=1678184 type=ZLIB magic=78 5E
+          offset=1682885 type=ZLIB magic=78 5E
+          offset=1700865 type=ZLIB magic=78 9C
+          offset=1714841 type=ZLIB magic=78 9C
+          offset=1731401 type=ZLIB magic=78 5E
+          offset=1743608 type=ZLIB magic=78 9C
+          offset=1753034 type=ZLIB magic=78 DA
+          offset=1759080 type=ZLIB magic=78 9C
+          offset=1781307 type=GZIP magic=1F 8B
+          offset=1791772 type=ZLIB magic=78 DA
+          offset=1795591 type=ZLIB magic=78 5E
+          offset=1808682 type=ZLIB magic=78 01
+          offset=1808708 type=GZIP magic=1F 8B
+          offset=1816628 type=ZLIB magic=78 5E
+          offset=1817464 type=ZLIB magic=78 5E
+          offset=1832086 type=GZIP magic=1F 8B
+          offset=1832342 type=ZLIB magic=78 DA
+          offset=1849786 type=ZLIB magic=78 DA
+          offset=1880805 type=ZLIB magic=78 01
+          offset=1888971 type=ZLIB magic=78 DA
+          offset=1900885 type=ZLIB magic=78 5E
+          offset=1901274 type=ZLIB magic=78 5E
+          offset=1920201 type=ZLIB magic=78 01
+          offset=1923224 type=GZIP magic=1F 8B
+          offset=1929612 type=ZLIB magic=78 DA
+          offset=1948376 type=ZLIB magic=78 DA
+          offset=1961835 type=ZLIB magic=78 9C
+          offset=1962243 type=GZIP magic=1F 8B
+          offset=1970076 type=ZLIB magic=78 9C
+          offset=1987856 type=ZLIB magic=78 5E
+          offset=1997969 type=ZLIB magic=78 DA
+          offset=2001922 type=ZLIB magic=78 9C
+          offset=2010059 type=ZLIB magic=78 5E
+          offset=2026781 type=GZIP magic=1F 8B
+          offset=2031040 type=ZLIB magic=78 5E
+          offset=2039463 type=ZLIB magic=78 5E
+          offset=2041776 type=GZIP magic=1F 8B
+          offset=2050710 type=ZLIB magic=78 9C
+          offset=2058103 type=ZLIB magic=78 01
+          offset=2063639 type=ZLIB magic=78 9C
+          offset=2075583 type=ZLIB magic=78 5E
+          offset=2119038 type=GZIP magic=1F 8B
+          offset=2131388 type=ZLIB magic=78 DA
+          offset=2137921 type=ZLIB magic=78 DA
+          offset=2177923 type=ZLIB magic=78 DA
+          offset=2218309 type=ZLIB magic=78 5E
+          offset=2222020 type=ZLIB magic=78 01
+          offset=2222812 type=ZLIB magic=78 01
+          offset=2240836 type=ZLIB magic=78 01
+          offset=2249339 type=ZLIB magic=78 9C
+          offset=2254163 type=ZLIB magic=78 DA
+          offset=2254198 type=GZIP magic=1F 8B
+          offset=2256483 type=GZIP magic=1F 8B
+          offset=2258950 type=ZLIB magic=78 5E
+          offset=2260507 type=ZLIB magic=78 01
+          offset=2269108 type=ZLIB magic=78 01
+          offset=2269726 type=ZLIB magic=78 DA
+          offset=2277800 type=GZIP magic=1F 8B
+          offset=2289418 type=ZLIB magic=78 01
+          offset=2294008 type=ZLIB magic=78 5E
+          offset=2303053 type=ZLIB magic=78 DA
+          offset=2305386 type=ZLIB magic=78 9C
+          offset=2319565 type=ZLIB magic=78 9C
+          offset=2321811 type=GZIP magic=1F 8B
+          offset=2340091 type=ZLIB magic=78 9C
+          offset=2343267 type=GZIP magic=1F 8B
+          offset=2355841 type=ZLIB magic=78 DA
+          offset=2364373 type=ZLIB magic=78 DA
+          offset=2382535 type=ZLIB magic=78 01
+          offset=2388683 type=ZLIB magic=78 9C
+          offset=2395065 type=ZLIB magic=78 01
+          offset=2421807 type=ZLIB magic=78 5E
+          offset=2426403 type=ZLIB magic=78 01
+          offset=2430310 type=ZLIB magic=78 9C
+          offset=2433659 type=ZLIB magic=78 01
+          offset=2474581 type=ZLIB magic=78 01
+          offset=2480230 type=ZLIB magic=78 9C
+          offset=2487363 type=ZLIB magic=78 01
+          offset=2496179 type=ZLIB magic=78 DA
+          offset=2503088 type=ZLIB magic=78 01
+          offset=2509205 type=ZLIB magic=78 5E
+          offset=2520743 type=ZLIB magic=78 5E
+          offset=2521122 type=ZLIB magic=78 9C
+          offset=2547717 type=ZLIB magic=78 9C
+          offset=2548118 type=ZLIB magic=78 01
+          offset=2559714 type=ZLIB magic=78 9C
+          offset=2576842 type=ZLIB magic=78 9C
+          offset=2605495 type=ZLIB magic=78 DA
+          offset=2623235 type=ZLIB magic=78 DA
+          offset=2624034 type=ZLIB magic=78 01
+          offset=2639249 type=GZIP magic=1F 8B
+          offset=2651176 type=ZLIB magic=78 DA
+          offset=2678226 type=ZLIB magic=78 5E
+          offset=2685460 type=ZLIB magic=78 9C
+          offset=2689767 type=ZLIB magic=78 DA
+          offset=2691784 type=GZIP magic=1F 8B
+          offset=2693295 type=GZIP magic=1F 8B
+          offset=2745056 type=ZLIB magic=78 9C
+          offset=2750128 type=ZLIB magic=78 5E
+          offset=2753528 type=ZLIB magic=78 9C
+          offset=2777493 type=GZIP magic=1F 8B
+          offset=2792212 type=GZIP magic=1F 8B
+          offset=2796147 type=GZIP magic=1F 8B
+          offset=2804631 type=ZLIB magic=78 9C
+          offset=2812210 type=ZLIB magic=78 DA
+          offset=2828911 type=ZLIB magic=78 01
+          offset=2834566 type=ZLIB magic=78 01
+          offset=2840372 type=ZLIB magic=78 9C
+          offset=2894968 type=ZLIB magic=78 9C
+          offset=2899468 type=ZLIB magic=78 DA
+          offset=2901135 type=ZLIB magic=78 5E
+          offset=2907235 type=GZIP magic=1F 8B
+          offset=2938798 type=ZLIB magic=78 DA
+          offset=2942192 type=ZLIB magic=78 01
+          offset=2968906 type=GZIP magic=1F 8B
+          offset=2981751 type=ZLIB magic=78 01
+          offset=3014639 type=GZIP magic=1F 8B
+          offset=3016824 type=GZIP magic=1F 8B
+          offset=3035971 type=ZLIB magic=78 01
+          offset=3064778 type=ZLIB magic=78 DA
+          offset=3124175 type=ZLIB magic=78 5E
+          offset=3132880 type=ZLIB magic=78 5E
+          offset=3138923 type=ZLIB magic=78 5E
+          offset=3171494 type=ZLIB magic=78 5E
+          offset=3181834 type=ZLIB magic=78 01
+          offset=3182672 type=ZLIB magic=78 5E
+          offset=3210991 type=ZLIB magic=78 5E
+          offset=3244212 type=GZIP magic=1F 8B
+          offset=3259300 type=ZLIB magic=78 9C
+          offset=3260302 type=ZLIB magic=78 DA
+          offset=3260832 type=ZLIB magic=78 DA
+          offset=3316480 type=ZLIB magic=78 DA
+          offset=3355995 type=ZLIB magic=78 9C
+          offset=3357303 type=ZLIB magic=78 01
+          offset=3377335 type=ZLIB magic=78 9C
+          offset=3396783 type=ZLIB magic=78 DA
+          offset=3447449 type=ZLIB magic=78 01
+          offset=3462859 type=ZLIB magic=78 DA
+          offset=3466692 type=ZLIB magic=78 9C
+          offset=3471908 type=ZLIB magic=78 DA
+          offset=3475782 type=GZIP magic=1F 8B
+          offset=3487082 type=ZLIB magic=78 DA
+          offset=3494454 type=ZLIB magic=78 DA
+          offset=3495869 type=ZLIB magic=78 DA
+          offset=3499733 type=ZLIB magic=78 9C
+          offset=3501211 type=ZLIB magic=78 9C
+          offset=3504743 type=ZLIB magic=78 01
+          offset=3532089 type=GZIP magic=1F 8B
+          offset=3532300 type=ZLIB magic=78 DA
+          offset=3553569 type=ZLIB magic=78 5E
+          offset=3559257 type=ZLIB magic=78 5E
+          offset=3577504 type=ZLIB magic=78 5E
+          offset=3581157 type=ZLIB magic=78 01
+          offset=3601856 type=GZIP magic=1F 8B
+          offset=3601931 type=ZLIB magic=78 01
+          offset=3603635 type=GZIP magic=1F 8B
+          offset=3608585 type=ZLIB magic=78 5E
+          offset=3611293 type=ZLIB magic=78 5E
+          offset=3634585 type=ZLIB magic=78 5E
+          offset=3636879 type=ZLIB magic=78 9C
+          offset=3673964 type=ZLIB magic=78 5E
+          offset=3675831 type=ZLIB magic=78 5E
+          offset=3681826 type=GZIP magic=1F 8B
+          offset=3687369 type=ZLIB magic=78 DA
+          offset=3695935 type=ZLIB magic=78 01
+          offset=3712459 type=ZLIB magic=78 5E
+          offset=3739564 type=ZLIB magic=78 01
+          offset=3742980 type=ZLIB magic=78 DA
+          offset=3751012 type=ZLIB magic=78 DA
+          offset=3771700 type=ZLIB magic=78 01
+          offset=3781741 type=GZIP magic=1F 8B
+          offset=3782475 type=ZLIB magic=78 DA
+          offset=3784274 type=GZIP magic=1F 8B
+          offset=3795857 type=ZLIB magic=78 5E
+          offset=3868996 type=ZLIB magic=78 5E
+          offset=3881902 type=ZLIB magic=78 5E
+          offset=3894990 type=GZIP magic=1F 8B
+          offset=3909387 type=ZLIB magic=78 01
+          offset=3917045 type=ZLIB magic=78 01
+          offset=3921429 type=GZIP magic=1F 8B
+          offset=3935463 type=ZLIB magic=78 5E
+          offset=3939612 type=ZLIB magic=78 DA
+          offset=3939632 type=GZIP magic=1F 8B
+          offset=3941198 type=ZLIB magic=78 DA
+          offset=3947242 type=ZLIB magic=78 DA
+          offset=3970228 type=ZLIB magic=78 5E
+          offset=3975055 type=ZLIB magic=78 DA
+          offset=4007620 type=ZLIB magic=78 01
+          offset=4017734 type=ZLIB magic=78 5E
+          offset=4025132 type=ZLIB magic=78 5E
+          offset=4028030 type=ZLIB magic=78 01
+          offset=4044527 type=ZLIB magic=78 9C
+          offset=4047244 type=ZLIB magic=78 01
+          offset=4053850 type=ZLIB magic=78 01
+          offset=4056636 type=ZLIB magic=78 DA
+          offset=4088145 type=ZLIB magic=78 9C
+          offset=4097964 type=ZLIB magic=78 01
+          offset=4102881 type=ZLIB magic=78 01
+          offset=4137231 type=ZLIB magic=78 5E
+          offset=4194785 type=ZLIB magic=78 01
+          offset=4200188 type=ZLIB magic=78 DA
+          offset=4214707 type=ZLIB magic=78 01
+      STRINGS:
+          0x25: n2IUJMKDURYLLQWAOBFLVDTLTBAOEMFUUATMECYHPSHWHNMLFHZB
+          0xB4: $]$bB
+          0xC7: 9Dthv
+          0x13B: a5|NOa
+          0x201: "MsYi
+          0x262: S%SeL 
+          0x3F9: wrlej>
+          0x5CD: PfXQ'
+          0x60E: JQOg&
+          0x798: Q?Uso
+          0x89C: <UCi3
+          0xA9C: 0VWNd
+          0xB2A: '(/5fN^
+          0xBB9: irkij
+          0xC5C: _6 I4b
+          0xC92: !Uk7r
+          0xD72: c_CC1[
+          0xDAD: _r.0*r5z
+          0xE41: lAUN8
+          0xE5C: C&`H7xBo
+          0xE7D: y|Ki5p
+          0xED4: #&xY5
+          0xF2A: gHgHQ
+          0xF74: Wb5[y
+          0x1030: <kdSO
+          0x1036: wI8U}
+          0x11F1: ,Macq
+          0x1229: B!JC3
+          0x12C5: 2Ag#U
+          0x12CC: 3u_ubT2cm
+
+[0002] TCP
+      S2C: 10.36 KB em 9 pacotes
+      C2S: 339.00 B em 7 pacotes
+      Duração: 53.058s
+      Entropia: 7.939531
+      ASCII: 0.415418
+      SHA256: b53c4e19b67dcf30ad60a7c5b1ec21aec86e18e1f94a5c0883daf8ec0fa95814
+      HEX inicial: 48 54 54 50 2F 31 2E 31 20 32 30 30 20 4F 4B 0D 0A 43 6F 6E 74 65 6E 74 2D 54 79 70 65 3A 20 74 65 78 74 2F 70 6C 61 69 6E 0D 0A 43 6F 6E 74 65 6E 74 2D 45 6E 63 6F 64 69 6E 67 3A 20 67 7A 69
+      ASCII inicial: HTTP/1.1 200 OK..Content-Type: text/plain..Content-Encoding: gzi
+      ASSINATURAS ENCONTRADAS:
+          offset=273 type=GZIP magic=1F 8B
+          offset=4086 type=GZIP magic=1F 8B
+          offset=5781 type=ZLIB magic=78 DA
+      STRINGS:
+          0x0: HTTP/1.1 200 OK
+          0x11: Content-Type: text/plain
+          0x2B: Content-Encoding: gzip
+          0x43: Last-Modified: Fri, 28 Feb 2025 00:07:36 GMT
+          0x71: Accept-Ranges: bytes
+          0x87: ETag: "5257ec67489db1:0"
+          0xA1: Vary: Accept-Encoding
+          0xB8: Server: Microsoft-IIS/10.0
+          0xD4: Date: Thu, 03 Sep 2026 19:29:28 GMT
+          0xF9: Content-Length: 3539
+          0x149: eVe]f
+          0x1BC: 6m1}K/<
+          0x1E4: F'_>M
+          0x399: !.4X*;
+          0x48E: ZB)*t
+          0x524: s|OZb
+          0x5BB: KtL&zWyW
+          0x629: BFevn
+          0x72E: -8nG<2
+          0x769: N)J,B:
+          0x7A3: MY^8R
+          0x7AD: gY}R_
+          0x7BE: c8bde"e8
+          0x903: D;'L$
+          0x958: eX2:P
+          0xA05: ^QlLv
+          0xA10: KzOFD
+          0xB64: H4(f2?
+          0xBE3: ab}Gy
+          0xEE4: HTTP/1.1 200 OK
+
