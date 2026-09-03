@@ -1,0 +1,6 @@
+=== PAYLOADS IDÊNTICOS ===
+
+ocorrencias=    2 sha256=11b9a3fd53a0ffe1edecaaa599b8e99a52b016ca110d91fa2b20cd88216f26c3
+  pacotes: 12, 39
+ocorrencias=    2 sha256=2a584995e11ef07092e9ad6f9a448bdc63c5fc1c22c7bd6d38f7ab122a8c6b5c
+  pacotes: 37, 5979

@@ -1,0 +1,784 @@
+=== CAMPOS INTEGER / TAMANHO ===
+
+
+--- PAYLOAD 16 BYTES ---
+
+--- PAYLOAD 17 BYTES ---
+offset=1: u16be=[18]
+offset=10: u16be=[19]
+offset=11: u16be=[2448]
+
+--- PAYLOAD 20 BYTES ---
+
+--- PAYLOAD 21 BYTES ---
+offset=4: u16le=[22] u16be=[20]
+offset=12: u16le=[1673]
+offset=17: u16le=[23]
+
+--- PAYLOAD 23 BYTES ---
+
+--- PAYLOAD 25 BYTES ---
+
+--- PAYLOAD 26 BYTES ---
+
+--- PAYLOAD 27 BYTES ---
+
+--- PAYLOAD 28 BYTES ---
+
+--- PAYLOAD 29 BYTES ---
+offset=3: u16be=[30]
+
+--- PAYLOAD 30 BYTES ---
+offset=24: u16le=[31]
+
+--- PAYLOAD 31 BYTES ---
+
+--- PAYLOAD 32 BYTES ---
+
+--- PAYLOAD 33 BYTES ---
+
+--- PAYLOAD 34 BYTES ---
+offset=9: u16le=[34]
+
+--- PAYLOAD 35 BYTES ---
+
+--- PAYLOAD 37 BYTES ---
+
+--- PAYLOAD 38 BYTES ---
+
+--- PAYLOAD 39 BYTES ---
+
+--- PAYLOAD 40 BYTES ---
+offset=35: u16be=[39]
+
+--- PAYLOAD 41 BYTES ---
+
+--- PAYLOAD 42 BYTES ---
+
+--- PAYLOAD 43 BYTES ---
+
+--- PAYLOAD 44 BYTES ---
+offset=34: u16be=[46]
+
+--- PAYLOAD 45 BYTES ---
+offset=11: u16be=[44]
+offset=25: u16be=[46]
+
+--- PAYLOAD 46 BYTES ---
+
+--- PAYLOAD 47 BYTES ---
+
+--- PAYLOAD 48 BYTES ---
+
+--- PAYLOAD 49 BYTES ---
+
+--- PAYLOAD 50 BYTES ---
+offset=14: u16be=[51]
+offset=38: u16be=[50]
+
+--- PAYLOAD 51 BYTES ---
+offset=14: u16be=[51]
+offset=33: u16be=[51]
+offset=43: u16le=[53]
+
+--- PAYLOAD 52 BYTES ---
+
+--- PAYLOAD 53 BYTES ---
+
+--- PAYLOAD 54 BYTES ---
+
+--- PAYLOAD 55 BYTES ---
+
+--- PAYLOAD 56 BYTES ---
+
+--- PAYLOAD 57 BYTES ---
+offset=15: u16le=[32]
+
+--- PAYLOAD 58 BYTES ---
+
+--- PAYLOAD 59 BYTES ---
+
+--- PAYLOAD 60 BYTES ---
+
+--- PAYLOAD 61 BYTES ---
+
+--- PAYLOAD 62 BYTES ---
+
+--- PAYLOAD 63 BYTES ---
+
+--- PAYLOAD 64 BYTES ---
+
+--- PAYLOAD 65 BYTES ---
+
+--- PAYLOAD 66 BYTES ---
+
+--- PAYLOAD 67 BYTES ---
+offset=40: u16be=[67]
+
+--- PAYLOAD 68 BYTES ---
+
+--- PAYLOAD 69 BYTES ---
+
+--- PAYLOAD 70 BYTES ---
+
+--- PAYLOAD 71 BYTES ---
+
+--- PAYLOAD 72 BYTES ---
+
+--- PAYLOAD 73 BYTES ---
+
+--- PAYLOAD 74 BYTES ---
+
+--- PAYLOAD 75 BYTES ---
+
+--- PAYLOAD 76 BYTES ---
+
+--- PAYLOAD 77 BYTES ---
+
+--- PAYLOAD 78 BYTES ---
+
+--- PAYLOAD 79 BYTES ---
+
+--- PAYLOAD 80 BYTES ---
+
+--- PAYLOAD 81 BYTES ---
+
+--- PAYLOAD 82 BYTES ---
+
+--- PAYLOAD 83 BYTES ---
+
+--- PAYLOAD 84 BYTES ---
+
+--- PAYLOAD 85 BYTES ---
+
+--- PAYLOAD 86 BYTES ---
+
+--- PAYLOAD 87 BYTES ---
+
+--- PAYLOAD 88 BYTES ---
+
+--- PAYLOAD 89 BYTES ---
+
+--- PAYLOAD 90 BYTES ---
+
+--- PAYLOAD 91 BYTES ---
+
+--- PAYLOAD 92 BYTES ---
+
+--- PAYLOAD 93 BYTES ---
+
+--- PAYLOAD 94 BYTES ---
+offset=41: u16be=[95]
+
+--- PAYLOAD 95 BYTES ---
+
+--- PAYLOAD 96 BYTES ---
+
+--- PAYLOAD 97 BYTES ---
+
+--- PAYLOAD 98 BYTES ---
+
+--- PAYLOAD 99 BYTES ---
+
+--- PAYLOAD 100 BYTES ---
+
+--- PAYLOAD 101 BYTES ---
+
+--- PAYLOAD 102 BYTES ---
+
+--- PAYLOAD 103 BYTES ---
+
+--- PAYLOAD 104 BYTES ---
+
+--- PAYLOAD 105 BYTES ---
+
+--- PAYLOAD 106 BYTES ---
+
+--- PAYLOAD 107 BYTES ---
+
+--- PAYLOAD 108 BYTES ---
+
+--- PAYLOAD 109 BYTES ---
+
+--- PAYLOAD 110 BYTES ---
+
+--- PAYLOAD 111 BYTES ---
+
+--- PAYLOAD 112 BYTES ---
+
+--- PAYLOAD 113 BYTES ---
+
+--- PAYLOAD 114 BYTES ---
+
+--- PAYLOAD 115 BYTES ---
+
+--- PAYLOAD 116 BYTES ---
+
+--- PAYLOAD 117 BYTES ---
+
+--- PAYLOAD 118 BYTES ---
+
+--- PAYLOAD 119 BYTES ---
+
+--- PAYLOAD 120 BYTES ---
+
+--- PAYLOAD 121 BYTES ---
+
+--- PAYLOAD 122 BYTES ---
+
+--- PAYLOAD 123 BYTES ---
+
+--- PAYLOAD 125 BYTES ---
+
+--- PAYLOAD 128 BYTES ---
+
+--- PAYLOAD 129 BYTES ---
+
+--- PAYLOAD 131 BYTES ---
+
+--- PAYLOAD 133 BYTES ---
+
+--- PAYLOAD 135 BYTES ---
+
+--- PAYLOAD 137 BYTES ---
+
+--- PAYLOAD 138 BYTES ---
+
+--- PAYLOAD 139 BYTES ---
+
+--- PAYLOAD 141 BYTES ---
+
+--- PAYLOAD 142 BYTES ---
+
+--- PAYLOAD 143 BYTES ---
+
+--- PAYLOAD 144 BYTES ---
+
+--- PAYLOAD 146 BYTES ---
+
+--- PAYLOAD 147 BYTES ---
+
+--- PAYLOAD 148 BYTES ---
+
+--- PAYLOAD 151 BYTES ---
+
+--- PAYLOAD 152 BYTES ---
+
+--- PAYLOAD 154 BYTES ---
+
+--- PAYLOAD 155 BYTES ---
+
+--- PAYLOAD 158 BYTES ---
+
+--- PAYLOAD 159 BYTES ---
+
+--- PAYLOAD 160 BYTES ---
+
+--- PAYLOAD 161 BYTES ---
+
+--- PAYLOAD 167 BYTES ---
+
+--- PAYLOAD 169 BYTES ---
+
+--- PAYLOAD 170 BYTES ---
+
+--- PAYLOAD 172 BYTES ---
+
+--- PAYLOAD 174 BYTES ---
+
+--- PAYLOAD 176 BYTES ---
+
+--- PAYLOAD 178 BYTES ---
+
+--- PAYLOAD 179 BYTES ---
+
+--- PAYLOAD 180 BYTES ---
+
+--- PAYLOAD 181 BYTES ---
+
+--- PAYLOAD 183 BYTES ---
+
+--- PAYLOAD 186 BYTES ---
+
+--- PAYLOAD 187 BYTES ---
+
+--- PAYLOAD 189 BYTES ---
+
+--- PAYLOAD 190 BYTES ---
+
+--- PAYLOAD 191 BYTES ---
+
+--- PAYLOAD 194 BYTES ---
+
+--- PAYLOAD 197 BYTES ---
+
+--- PAYLOAD 198 BYTES ---
+
+--- PAYLOAD 199 BYTES ---
+
+--- PAYLOAD 200 BYTES ---
+
+--- PAYLOAD 201 BYTES ---
+
+--- PAYLOAD 203 BYTES ---
+
+--- PAYLOAD 207 BYTES ---
+
+--- PAYLOAD 208 BYTES ---
+
+--- PAYLOAD 209 BYTES ---
+
+--- PAYLOAD 210 BYTES ---
+
+--- PAYLOAD 214 BYTES ---
+
+--- PAYLOAD 218 BYTES ---
+
+--- PAYLOAD 222 BYTES ---
+
+--- PAYLOAD 226 BYTES ---
+
+--- PAYLOAD 227 BYTES ---
+
+--- PAYLOAD 233 BYTES ---
+
+--- PAYLOAD 236 BYTES ---
+offset=18: u16be=[18]
+
+--- PAYLOAD 237 BYTES ---
+
+--- PAYLOAD 240 BYTES ---
+
+--- PAYLOAD 246 BYTES ---
+
+--- PAYLOAD 248 BYTES ---
+
+--- PAYLOAD 253 BYTES ---
+
+--- PAYLOAD 256 BYTES ---
+
+--- PAYLOAD 259 BYTES ---
+
+--- PAYLOAD 263 BYTES ---
+
+--- PAYLOAD 264 BYTES ---
+
+--- PAYLOAD 265 BYTES ---
+
+--- PAYLOAD 273 BYTES ---
+
+--- PAYLOAD 276 BYTES ---
+
+--- PAYLOAD 278 BYTES ---
+
+--- PAYLOAD 279 BYTES ---
+
+--- PAYLOAD 285 BYTES ---
+
+--- PAYLOAD 287 BYTES ---
+
+--- PAYLOAD 288 BYTES ---
+
+--- PAYLOAD 289 BYTES ---
+
+--- PAYLOAD 291 BYTES ---
+
+--- PAYLOAD 292 BYTES ---
+
+--- PAYLOAD 294 BYTES ---
+
+--- PAYLOAD 296 BYTES ---
+
+--- PAYLOAD 297 BYTES ---
+
+--- PAYLOAD 299 BYTES ---
+
+--- PAYLOAD 300 BYTES ---
+
+--- PAYLOAD 305 BYTES ---
+
+--- PAYLOAD 314 BYTES ---
+
+--- PAYLOAD 315 BYTES ---
+
+--- PAYLOAD 325 BYTES ---
+
+--- PAYLOAD 328 BYTES ---
+
+--- PAYLOAD 334 BYTES ---
+
+--- PAYLOAD 350 BYTES ---
+
+--- PAYLOAD 354 BYTES ---
+
+--- PAYLOAD 357 BYTES ---
+
+--- PAYLOAD 366 BYTES ---
+
+--- PAYLOAD 367 BYTES ---
+
+--- PAYLOAD 372 BYTES ---
+
+--- PAYLOAD 383 BYTES ---
+
+--- PAYLOAD 395 BYTES ---
+
+--- PAYLOAD 403 BYTES ---
+
+--- PAYLOAD 407 BYTES ---
+
+--- PAYLOAD 411 BYTES ---
+
+--- PAYLOAD 416 BYTES ---
+
+--- PAYLOAD 423 BYTES ---
+
+--- PAYLOAD 446 BYTES ---
+
+--- PAYLOAD 452 BYTES ---
+
+--- PAYLOAD 471 BYTES ---
+
+--- PAYLOAD 472 BYTES ---
+
+--- PAYLOAD 483 BYTES ---
+
+--- PAYLOAD 490 BYTES ---
+
+--- PAYLOAD 492 BYTES ---
+
+--- PAYLOAD 501 BYTES ---
+
+--- PAYLOAD 516 BYTES ---
+
+--- PAYLOAD 559 BYTES ---
+
+--- PAYLOAD 564 BYTES ---
+
+--- PAYLOAD 565 BYTES ---
+
+--- PAYLOAD 579 BYTES ---
+
+--- PAYLOAD 586 BYTES ---
+
+--- PAYLOAD 593 BYTES ---
+
+--- PAYLOAD 600 BYTES ---
+
+--- PAYLOAD 611 BYTES ---
+
+--- PAYLOAD 614 BYTES ---
+
+--- PAYLOAD 622 BYTES ---
+
+--- PAYLOAD 651 BYTES ---
+
+--- PAYLOAD 668 BYTES ---
+
+--- PAYLOAD 684 BYTES ---
+
+--- PAYLOAD 688 BYTES ---
+
+--- PAYLOAD 697 BYTES ---
+
+--- PAYLOAD 708 BYTES ---
+
+--- PAYLOAD 713 BYTES ---
+
+--- PAYLOAD 737 BYTES ---
+
+--- PAYLOAD 745 BYTES ---
+
+--- PAYLOAD 755 BYTES ---
+
+--- PAYLOAD 756 BYTES ---
+
+--- PAYLOAD 769 BYTES ---
+
+--- PAYLOAD 785 BYTES ---
+
+--- PAYLOAD 786 BYTES ---
+
+--- PAYLOAD 792 BYTES ---
+
+--- PAYLOAD 795 BYTES ---
+
+--- PAYLOAD 811 BYTES ---
+
+--- PAYLOAD 815 BYTES ---
+
+--- PAYLOAD 816 BYTES ---
+
+--- PAYLOAD 818 BYTES ---
+
+--- PAYLOAD 822 BYTES ---
+
+--- PAYLOAD 830 BYTES ---
+
+--- PAYLOAD 832 BYTES ---
+
+--- PAYLOAD 838 BYTES ---
+
+--- PAYLOAD 844 BYTES ---
+
+--- PAYLOAD 848 BYTES ---
+
+--- PAYLOAD 857 BYTES ---
+
+--- PAYLOAD 864 BYTES ---
+
+--- PAYLOAD 884 BYTES ---
+
+--- PAYLOAD 893 BYTES ---
+
+--- PAYLOAD 895 BYTES ---
+
+--- PAYLOAD 908 BYTES ---
+
+--- PAYLOAD 912 BYTES ---
+
+--- PAYLOAD 921 BYTES ---
+
+--- PAYLOAD 922 BYTES ---
+
+--- PAYLOAD 926 BYTES ---
+
+--- PAYLOAD 931 BYTES ---
+
+--- PAYLOAD 939 BYTES ---
+
+--- PAYLOAD 943 BYTES ---
+
+--- PAYLOAD 945 BYTES ---
+
+--- PAYLOAD 949 BYTES ---
+
+--- PAYLOAD 952 BYTES ---
+
+--- PAYLOAD 954 BYTES ---
+
+--- PAYLOAD 955 BYTES ---
+
+--- PAYLOAD 962 BYTES ---
+
+--- PAYLOAD 967 BYTES ---
+
+--- PAYLOAD 983 BYTES ---
+
+--- PAYLOAD 992 BYTES ---
+
+--- PAYLOAD 1004 BYTES ---
+
+--- PAYLOAD 1005 BYTES ---
+
+--- PAYLOAD 1006 BYTES ---
+
+--- PAYLOAD 1010 BYTES ---
+
+--- PAYLOAD 1011 BYTES ---
+
+--- PAYLOAD 1014 BYTES ---
+
+--- PAYLOAD 1019 BYTES ---
+
+--- PAYLOAD 1020 BYTES ---
+
+--- PAYLOAD 1022 BYTES ---
+
+--- PAYLOAD 1024 BYTES ---
+
+--- PAYLOAD 1029 BYTES ---
+
+--- PAYLOAD 1031 BYTES ---
+
+--- PAYLOAD 1032 BYTES ---
+
+--- PAYLOAD 1033 BYTES ---
+
+--- PAYLOAD 1035 BYTES ---
+
+--- PAYLOAD 1039 BYTES ---
+
+--- PAYLOAD 1041 BYTES ---
+
+--- PAYLOAD 1047 BYTES ---
+
+--- PAYLOAD 1048 BYTES ---
+
+--- PAYLOAD 1049 BYTES ---
+
+--- PAYLOAD 1054 BYTES ---
+
+--- PAYLOAD 1056 BYTES ---
+
+--- PAYLOAD 1057 BYTES ---
+
+--- PAYLOAD 1060 BYTES ---
+
+--- PAYLOAD 1061 BYTES ---
+
+--- PAYLOAD 1064 BYTES ---
+
+--- PAYLOAD 1066 BYTES ---
+
+--- PAYLOAD 1067 BYTES ---
+
+--- PAYLOAD 1068 BYTES ---
+
+--- PAYLOAD 1069 BYTES ---
+
+--- PAYLOAD 1070 BYTES ---
+
+--- PAYLOAD 1071 BYTES ---
+
+--- PAYLOAD 1077 BYTES ---
+
+--- PAYLOAD 1079 BYTES ---
+
+--- PAYLOAD 1080 BYTES ---
+
+--- PAYLOAD 1083 BYTES ---
+offset=2: u16le=[1084]
+
+--- PAYLOAD 1085 BYTES ---
+
+--- PAYLOAD 1091 BYTES ---
+
+--- PAYLOAD 1094 BYTES ---
+
+--- PAYLOAD 1095 BYTES ---
+
+--- PAYLOAD 1096 BYTES ---
+
+--- PAYLOAD 1097 BYTES ---
+
+--- PAYLOAD 1098 BYTES ---
+
+--- PAYLOAD 1100 BYTES ---
+
+--- PAYLOAD 1101 BYTES ---
+
+--- PAYLOAD 1102 BYTES ---
+
+--- PAYLOAD 1103 BYTES ---
+
+--- PAYLOAD 1104 BYTES ---
+
+--- PAYLOAD 1105 BYTES ---
+
+--- PAYLOAD 1106 BYTES ---
+
+--- PAYLOAD 1107 BYTES ---
+
+--- PAYLOAD 1111 BYTES ---
+
+--- PAYLOAD 1113 BYTES ---
+
+--- PAYLOAD 1114 BYTES ---
+
+--- PAYLOAD 1116 BYTES ---
+
+--- PAYLOAD 1118 BYTES ---
+
+--- PAYLOAD 1119 BYTES ---
+
+--- PAYLOAD 1120 BYTES ---
+
+--- PAYLOAD 1121 BYTES ---
+
+--- PAYLOAD 1122 BYTES ---
+
+--- PAYLOAD 1123 BYTES ---
+
+--- PAYLOAD 1127 BYTES ---
+
+--- PAYLOAD 1128 BYTES ---
+
+--- PAYLOAD 1129 BYTES ---
+
+--- PAYLOAD 1131 BYTES ---
+
+--- PAYLOAD 1133 BYTES ---
+
+--- PAYLOAD 1134 BYTES ---
+
+--- PAYLOAD 1135 BYTES ---
+
+--- PAYLOAD 1136 BYTES ---
+
+--- PAYLOAD 1137 BYTES ---
+
+--- PAYLOAD 1138 BYTES ---
+
+--- PAYLOAD 1139 BYTES ---
+
+--- PAYLOAD 1140 BYTES ---
+
+--- PAYLOAD 1141 BYTES ---
+
+--- PAYLOAD 1142 BYTES ---
+
+--- PAYLOAD 1143 BYTES ---
+
+--- PAYLOAD 1144 BYTES ---
+
+--- PAYLOAD 1145 BYTES ---
+
+--- PAYLOAD 1146 BYTES ---
+
+--- PAYLOAD 1149 BYTES ---
+
+--- PAYLOAD 1151 BYTES ---
+
+--- PAYLOAD 1152 BYTES ---
+
+--- PAYLOAD 1154 BYTES ---
+
+--- PAYLOAD 1155 BYTES ---
+
+--- PAYLOAD 1157 BYTES ---
+offset=49: u16be=[1157]
+
+--- PAYLOAD 1158 BYTES ---
+
+--- PAYLOAD 1159 BYTES ---
+
+--- PAYLOAD 1160 BYTES ---
+
+--- PAYLOAD 1161 BYTES ---
+
+--- PAYLOAD 1162 BYTES ---
+
+--- PAYLOAD 1163 BYTES ---
+
+--- PAYLOAD 1165 BYTES ---
+offset=5: u16le=[1167]
+offset=33: u16be=[1166]
+offset=56: u16le=[1166]
+offset=60: u16le=[357]
+
+--- PAYLOAD 1166 BYTES ---
+offset=5: u16le=[1167]
+
+--- PAYLOAD 1167 BYTES ---
+offset=30: u16be=[1167]
+offset=32: u16be=[1167]
+offset=63: u16be=[1166]
+
+--- PAYLOAD 1168 BYTES ---
+offset=1: u16be=[1169]
+offset=2: u16le=[2143]
+offset=5: u16le=[1167]
+offset=22: u16be=[1168]
+offset=23: u16le=[1169, 1170] u16be=[1167]
+offset=32: u16le=[1169]
+offset=34: u16be=[1167, 1168]
+offset=37: u16be=[1167]
+offset=41: u16le=[1168]
+offset=43: u16le=[1167]
+offset=45: u16le=[1167]
+offset=46: u16le=[1170]
+offset=47: u16be=[2143]
+offset=50: u16be=[1169]
+offset=54: u16be=[1170]
+offset=61: u16le=[1168]
